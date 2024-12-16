@@ -152,7 +152,7 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 <dd> CCF-C SCI-Q2 IF-2.84 (<strong> journal 《Expert System》 </strong>), 2025</dd>
 </dl>
 
-<hr>
+
 
 # 📝 national invention patent
 
@@ -191,7 +191,7 @@ hspace="10" wspace="20" src="../images/patent3.png">
 <dd>Under acceptance, 2024</dd>
 </dl>
 
-<hr>
+
 
 #  🎖 Awards
 <br/>
@@ -217,7 +217,7 @@ hspace="10" wspace="20" src="../images/patent3.png">
 
 <br/>
 
-<hr>
+
 
 # 🎡 Service
 ## Conference Committee Member
