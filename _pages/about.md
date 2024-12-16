@@ -119,11 +119,11 @@ d) Data augmentation
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
+hspace="10" wspace="20" src="../images/GGEUR_CVPR25_V1.png">
 </dt>
   <dd><strong>Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning
-</strong></a></dd>
-<!--<a href="https://proceedings.mlr.press/v235/wan24g.html">-->
+</strong></dd>
+<!--<a href="https://proceedings.mlr.press/v235/wan24g.html"></a>-->
 <dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd>
     <dd> Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025 </dd>
 </dl>
@@ -137,14 +137,14 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/IGAM_ICLR25.png">
 </dt>
-  <dd><strong>Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount</strong></a></dd>
-  <!--<a href="https://arxiv.org/pdf/2410.20105">-->
+  <dd><strong>Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount</strong></dd>
+  <!--<a href="https://arxiv.org/pdf/2410.20105"></a>-->
 <dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Jiayi Chen</dd>
 <dd> International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
 </dl>
 
 
-
+<!-- 
 # 📝 Manuscripts
 
 
@@ -170,7 +170,7 @@ hspace="10" wspace="20" src="../images/FedTGE.png">
   <dd><a href=""><strong>	
 Energy-based Backdoor Defense Against Federated Graph Learning
 </strong></a></dd>
-<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
+<dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
 <dd>under review, 2024</dd>
 
 
@@ -185,7 +185,7 @@ hspace="10" wspace="20" src="../images/EAGLES.png">
   <dd><a href=""><strong>	
 EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
 </strong></a></dd>
-<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
+<dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
 <dd>under review, 2024</dd>
 
 
@@ -200,7 +200,7 @@ hspace="10" wspace="20" src="../images/FedSPA.png">
   <dd><a href=""><strong>	
 FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 </strong></a></dd>
-<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
+<dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
 <dd>under review, 2024</dd>
 
 
@@ -208,7 +208,7 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 
 
 <hr>
-
+ -->
 
 
 # 🎡 Service
@@ -221,9 +221,9 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 # 📖 Educations
 - *2022.09 - Now*, Undergraduate, School of Communication Engineering, Xi'an University of Electronic Science and Technology, China (GPA:3.9/4.0, Weighted Average scorc:91/100) 
 
-
+<!-- 
 <dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
-
+-->
 
 
 <!-- 
