@@ -112,7 +112,7 @@ d) diffusion
 -->
 
 
-# 📃 Publications or Manuscripts
+# 📃 Publications
 
 **&dagger; Equal Contribution**   
 
