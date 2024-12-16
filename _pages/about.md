@@ -76,7 +76,7 @@ b) Trustworthy Machine Learning
 
 c) manifold learning
 
-d) diffusion
+d) diffusion model
 
 
 <!--
@@ -149,6 +149,8 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 
 <hr>
 
+<br>
+
 # 📝 national invention patent
 
 <dl>
@@ -188,7 +190,9 @@ hspace="10" wspace="20" src="../images/patent3.png">
 
 <hr>
 
-#  🎖 Awards
+<br>
+
+# 🎖 Awards
 <br/>
 
 <div style="max-height: 200px; overflow-y: auto;">
