@@ -113,7 +113,8 @@ d) Data augmentation
 
 <br/>
 -->
-# 📃 Publications 
+
+# 📃 Publications or Manuscripts
 
 **&dagger; Equal Contribution**   
 
@@ -145,7 +146,7 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25.png">
 
 
 <!-- 
-# 📝 Manuscripts
+# 📝 patent
 
 
 <dl>
@@ -209,6 +210,8 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 
 <hr>
  -->
+
+#  🎖 Awards
 
 
 # 🎡 Service
