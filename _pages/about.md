@@ -70,18 +70,13 @@ My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at 
 
 I am passionate about using <u>geometric perspectives</u> to explain laws in the world of manifolds. Currently, my research interests mainly focus on the following aspects:
 
-a) AI for Science:  
-- Bioinformatics (*e.g.*, Genomics)
+a) unfairness & Prejudice
 
-- Public Health (*e.g.*, Epidemiology)
+b) Trustworthy Machine Learning
 
-- Physics (*e.g.*, Neural ODE)
+c) manifold learning
 
-b) Federated Learning
-
-c) Prototype learning
-
-d) Data augmentation
+d) diffusion
 
 
 <!--
