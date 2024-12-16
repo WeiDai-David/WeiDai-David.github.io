@@ -96,8 +96,8 @@ d) Data augmentation
 hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 </dt>
   <dd><strong>Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning</strong></dd>
-  <dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd>
-  <dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), 2025 </dd>
+<dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd>
+<dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), 2025 </dd>
 </dl>
 
 <hr>
