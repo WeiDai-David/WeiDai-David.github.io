@@ -190,7 +190,7 @@ hspace="10" wspace="20" src="../images/patent3.png">
 
 <hr>
 
-<br>
+<br/>
 
 # 🎖 Awards
 
@@ -213,7 +213,7 @@ hspace="10" wspace="20" src="../images/patent3.png">
 </ul>
 </div>
 
-
+<br/>
 
 # 🎡 Service
 ## Conference Committee Member
