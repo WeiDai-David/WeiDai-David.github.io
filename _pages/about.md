@@ -193,7 +193,6 @@ hspace="10" wspace="20" src="../images/patent3.png">
 <br>
 
 # 🎖 Awards
-<br/>
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
@@ -213,8 +212,6 @@ hspace="10" wspace="20" src="../images/patent3.png">
   <li><em>2023.11:</em> I serve as a reviewer for <strong>CVPR 2024</strong>.</li>
 </ul>
 </div>
-
-<br/>
 
 
 
