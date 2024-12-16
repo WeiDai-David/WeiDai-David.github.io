@@ -84,7 +84,37 @@ c) Prototype learning
 d) Data augmentation
 
 
-<hr>
+<!--
+<br/>
+
+# 🔥 News
+
+
+<div style="max-height: 200px; overflow-y: auto;">
+<ul>
+  <li><em>2024.11:</em> 🎈I was honored with <strong>Lei Jun Excellence Scholarship</strong> ~ <strong>100k</strong> (The <strong><u>Highest</u></strong> Scholarship at Wuhan University, <strong><u>Top-4</u></strong> among All Undergraduates, Award Rate ~ <strong>0.01%</strong>)</li>
+  <li><em>2024.11:</em> I serve as a reviewer for <strong>CVPR 2025</strong>.</li>
+  <li><em>2024.09:</em> ✨✨✨ Two papers were accepted by <strong>NeurIPS 2024</strong>. See you in Vancouver.</li>
+  <li><em>2024.08:</em> Organize a tutorial at <strong>KDD 2024</strong> in Barcelona on 25th, come if you are interested in epidemics + GNN!</li>
+  <li><em>2024.08:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
+  <li><em>2024.06:</em> ✨✨✨ One paper is accepted by <strong>TPAMI</strong>, congrats to all collaborators!</li>
+  <li><em>2024.05:</em> I serve as a reviewer for <strong>NeurIPS 2024</strong>.</li>
+  <li><em>2024.05:</em> ✨✨✨ Our survey about GNNs in Epidemic Modeling is accepted by <strong>KDD 2024</strong>. See you in Barcelona!</li>
+  <li><em>2024.05:</em> ✨✨✨ One paper about self-supervised graph learning was accepted by <strong>ICML 2024</strong>. See you in Austria!</li>
+  <li><em>2024.04:</em> 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected <a href="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers">paper list</a>.</li>
+  <li><em>2024.02:</em> I serve as a reviewer for <strong>ACM MM 2024</strong>.</li>
+  <li><em>2024.02:</em> I serve as a reviewer for <strong>ECCV 2024</strong>.</li>
+  <li><em>2023.12:</em> A paper was accepted to <strong>AAAI 2024</strong>. See you in Vancouver.</li>
+  <li><em>2023.11:</em> I serve as a reviewer for <strong>CVPR 2024</strong>.</li>
+  <li><em>2023.11:</em> 🚀🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our <a href="https://github.com/WenkeHuang/MarsFL">benchmarking codes</a> for your own research goal!</li>
+  <li><em>2023.10:</em> I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).</li>
+  <li><em>2023.10:</em> I won the National Scholarship for the second time (0.2% nation-wide), and was selected the Pacemaker to Merit Student (Award Rate: 60/59774=0.1%).</li>
+  <li><em>2023.08:</em> We attended <em>The 32nd INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (<strong>IJCAI</strong>)</em> and presented our work in Macao.</li>
+</ul>
+</div>
+
+<br/>
+-->
 
 
 # 📃 Publications or Manuscripts
@@ -103,49 +133,62 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"hspace="10" wspace="20" src="../images/IGAM_ICLR25.png"></dt>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/IGAM_ICLR25.png">
+</dt>
   <dd><strong>Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount</strong></dd>
-  <dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Jiayi Chen</dd>
-  <dd> International Conference on Learning Representations (<strong>Tsinghua-A ICLR</strong>), 2025</dd>
+<dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Jiayi Chen</dd>
+<dd> International Conference on Learning Representations (<strong>Tsinghua-A ICLR</strong>), 2025</dd>
 </dl>
 
+<hr>
+
 <dl>
-  <dt><img align="left" width="400"hspace="10" wspace="20" src="../images/CCFC-EP25.png"></dt>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/CCFC-EP25.png">
+</dt>
   <dd><strong>Guideline for Novel Fine‐Grained Sentiment Annotation and Data Curation: A Case Study</strong></dd>
-  <dd><strong><u>Wei Dai</u></strong>, Wanqiu Kong, Tao Shang, Jianhong Feng, Jiaji Wu, Tan Qu</dd>
-  <dd> CCF-C SCI-Q2 IF-2.84 (<strong> journal 《Expert System》 </strong>), 2025</dd>
+<dd><strong><u>Wei Dai</u></strong>, Wanqiu Kong, Tao Shang, Jianhong Feng, Jiaji Wu, Tan Qu</dd>
+<dd> CCF-C SCI-Q2 IF-2.84 (<strong> journal 《Expert System》 </strong>), 2025</dd>
 </dl>
+
 <hr>
 
 # 📝 national invention patent
 
 <dl>
-  <dt><img align="left" width="400"hspace="10" wspace="20" src="../images/patent1.png"></dt>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/patent1.png">
+</dt>
   <dd><a href="https://www.xjishu.com/zhuanli/55/202410893258.html"><strong>基于深度学习的多特征、模块化人工智能识别方法和系统</strong></a>
   <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=182y08t0251u0pu07k420t20en690534"><strong>[百度学术]</strong></a>
   <a href="https://github.com/WeiDai-David/Security-feature-detection-system"><strong>[Github]</strong></a></dd>
-  <dd><strong><u>Wei Dai</u></strong>, Jiayi Chen, Fengliang Mi</dd>
-  <dd>Under acceptance, 2024</dd>
+<dd><strong><u>Wei Dai</u></strong>, Jiayi Chen, Fengliang Mi</dd>
+<dd>Under acceptance, 2024</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"hspace="10" wspace="20" src="../images/patent2.png"></dt>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/patent2.png">
+</dt>
   <dd><a href="https://www.xjishu.com/zhuanli/55/202410893256.html"><strong>基于熵权法和统计偏差原则的多维角度评分系统及方法</strong></a>
   <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1f190pa0cg3p08u06a6d0t00xv253723&site=xueshu_se"><strong>[百度学术]</strong></a></dd>
-  <dd>Jiayi Chen, <strong><u>Wei Dai</u></strong>, Fengliang Mi</dd>
-  <dd>Under acceptance, 2024</dd>
+<dd>Jiayi Chen, <strong><u>Wei Dai</u></strong>, Fengliang Mi</dd>
+<dd>Under acceptance, 2024</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"hspace="10" wspace="20" src="../images/patent3.png"></dt>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/patent3.png">
+</dt>
   <dd><a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n7y0xq0nf4k0eh0m754024005382777&site=xueshu_se"><strong>	一种基于LSTM的个性化心率异常监测方法 </strong></a>
   <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n7y0xq0nf4k0eh0m754024005382777&site=xueshu_se"><strong>[百度学术]</strong></a></dd>
-  <dd>Qiang Cui, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Wenting Wei</dd>
-  <dd>Under acceptance, 2024</dd>
+<dd>Qiang Cui, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Wenting Wei</dd>
+<dd>Under acceptance, 2024</dd>
 </dl>
 
 <hr>
