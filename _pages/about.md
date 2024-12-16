@@ -126,6 +126,8 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 </dl>
 
 
+<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -137,6 +139,8 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25.png">
 <dd> International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
 </dl>
 
+
+<hr>
 
 
 # 📝 patent
@@ -158,7 +162,6 @@ hspace="10" wspace="20" src="../images/pattern1.png">
 <hr>
 
 
-
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/pattern2.png">
@@ -171,7 +174,9 @@ hspace="10" wspace="20" src="../images/pattern2.png">
 
 </dl>
 
+
 <hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -184,8 +189,6 @@ hspace="10" wspace="20" src="../images/pattern3.png">
 
 
 </dl>
-
-<hr>
 
 
 <hr>
