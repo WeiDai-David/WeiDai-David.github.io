@@ -84,9 +84,7 @@ c) Prototype learning
 d) Data augmentation
 <!--
 <br/>
-
 # 🔥 News
-
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
@@ -110,7 +108,6 @@ d) Data augmentation
   <li><em>2023.08:</em> We attended <em>The 32nd INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (<strong>IJCAI</strong>)</em> and presented our work in Macao.</li>
 </ul>
 </div>
-
 <br/>
 -->
 
@@ -120,17 +117,13 @@ d) Data augmentation
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/GGEUR_CVPR25_V1.png">
+hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 </dt>
-  <dd><strong>Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning
-</strong></dd>
+  <dd><strong>Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning</strong></dd>
 <!--<a href="https://proceedings.mlr.press/v235/wan24g.html"></a>-->
 <dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd>
     <dd> Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025 </dd>
 </dl>
-
-<span class="co-first">(co-first)</span>
-<hr >
 
 
 
@@ -145,17 +138,19 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25.png">
 </dl>
 
 
-<!-- 
+
 # 📝 patent
 
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/EARTH.png">
+hspace="10" wspace="20" src="../images/pattern1.png">
 </dt>
-  <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
-<dd><strong><u>Guancheng Wan</u></strong>, Zewen Liu, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
-<dd>under review, 2024</dd>
+  <dd><a href="https://www.xjishu.com/zhuanli/55/202410893258.html"><strong>基于深度学习的多特征、模块化人工智能识别方法和系统</strong></a>
+  <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=182y08t0251u0pu07k420t20en690534"><strong>[百度学术]</strong></a>
+  <a href="https://github.com/WeiDai-David/Security-feature-detection-system"><strong>[Github]</strong></a></dd>
+<dd><strong><u>Wei Dai</u></strong>, Jiayi Chen， Fengliang Mi</dd>
+<dd>Under acceptance, 2024</dd>
 
 </dl>
 
@@ -166,13 +161,12 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedTGE.png">
+hspace="10" wspace="20" src="../images/pattern2.png">
 </dt>
-  <dd><a href=""><strong>	
-Energy-based Backdoor Defense Against Federated Graph Learning
-</strong></a></dd>
-<dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
-<dd>under review, 2024</dd>
+  <dd><a href="https://www.xjishu.com/zhuanli/55/202410893256.html"><strong>基于熵权法和统计偏差原则的多维角度评分系统及方法</strong></a>
+  <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1f190pa0cg3p08u06a6d0t00xv253723&site=xueshu_se"><strong>[百度学术]</strong></a></dd>
+<dd>Jiayi Chen, <strong><u>Wei Dai</u></strong>, Fengliang Mi</dd>
+<dd>Under acceptance, 2024</dd>
 
 
 </dl>
@@ -181,35 +175,21 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/EAGLES.png">
+hspace="10" wspace="20" src="../images/pattern3.png">
 </dt>
-  <dd><a href=""><strong>	
-EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
-</strong></a></dd>
-<dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
-<dd>under review, 2024</dd>
+  <dd><a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n7y0xq0nf4k0eh0m754024005382777&site=xueshu_se"><strong>	一种基于LSTM的个性化心率异常监测方法 </strong></a>
+  <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n7y0xq0nf4k0eh0m754024005382777&site=xueshu_se"><strong>[百度学术]</strong></a></dd>
+<dd>Qiang Cui, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Wenting Wei</dd>
+<dd>Under acceptance, 2024</dd>
 
 
 </dl>
 
 <hr>
 
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedSPA.png">
-</dt>
-  <dd><a href=""><strong>	
-FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
-</strong></a></dd>
-<dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
-<dd>under review, 2024</dd>
-
-
-</dl>
-
 
 <hr>
- -->
+
 
 #  🎖 Awards
 
