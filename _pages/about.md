@@ -133,6 +133,27 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 <dd> CCF-C SCI-Q2 IF-2.84 (<strong> journal 《Expert System》 </strong>), 2025</dd>
 </dl>
 
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/review1.png">
+</dt>
+  <dd><strong>Trade-Offs Between Richness and Bias of Augmented Data in Long-Tailed Recognition</strong></dd>
+<dd><strong><u>Wei Dai</u></strong>, Yanbiao Ma, Jiayi Chen</dd>
+<dd> Under review, 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/review2.png">
+</dt>
+  <dd><strong>Exploring Beyond Logits: Hierarchical Dynamic Labeling Based on Embeddings for Semi-Supervised Classification</strong></dd>
+<dd>Jiayi Chen, Yanbiao ma, <strong><u>Wei Dai</u></strong></dd>
+<dd> Under review, 2025</dd>
+</dl>
 
 <hr>
 
