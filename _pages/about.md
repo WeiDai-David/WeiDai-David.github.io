@@ -90,7 +90,8 @@ d) diffusion model
   <li><em>2024.12:</em> 🚀🚀🚀 We will continue the work of 2025Tpami and solve the problem of misalignment between online enhanced semantic ratios and linear label ratios in manifold space.</li>
   <li><em>2024.12:</em> 🚀🚀🚀 We will continue the work of 2025CVPR and comprehensively analyze federated learning data augmentation from a geometric perspective in manifold space. In the following work, we will focus on class prototypes, Gaussian enhancement, and perceptual manifold geometric features.</li>
   <li><em>2024.12:</em> 🚀🚀🚀 We are enthusiastic about achieving the transition from pixel layer to image layer in segmentation tasks. In the future, we will carry out region instance prototype distribution recovery for long tail segmentation scenes from manifold space.</li>
-  <li><em>2024.12:</em> 🚀🚀🚀This is a major challenge!!! In our work on clip and dinov2, we discovered the non-uniformity of class prototypes, which will lead to a series of problems and hinder the development of large-scale models. In the future, we will focus on manifold space, try to explain the underlying mechanisms, and solve this bias.</li>
+  <li><em>2024.12:</em> 🚀🚀🚀 This is a major challenge!!! In our work on clip and dinov2, we discovered the non-uniformity of class prototypes, which will lead to a series of problems and hinder the development of large-scale models. In the future, we will focus on manifold space, try to explain the underlying mechanisms, and solve this bias.</li>
+  <li><em>2024.11:</em> 🚀🚀🚀 Inspired by the alignment strategy of Xie Saining's team, we will further investigate the bias issue of diffusion models.</li>
 </ul>
 </div>
 
@@ -164,8 +165,8 @@ hspace="10" wspace="20" src="../images/review2.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/patent1.png">
 </dt>
-  <dd><a href="https://www.xjishu.com/zhuanli/55/202410893258.html"><strong>基于深度学习的多特征、模块化人工智能识别方法和系统</strong></a>
-  <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=182y08t0251u0pu07k420t20en690534"><strong>[百度学术]</strong></a>
+  <dd><a href="https://www.xjishu.com/zhuanli/55/202410893258.html"><strong>Multi feature, modular artificial intelligence recognition method and system based on deep learning</strong></a>
+  <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=182y08t0251u0pu07k420t20en690534"><strong>[Baidu Scholar]</strong></a>
   <a href="https://github.com/WeiDai-David/Security-feature-detection-system"><strong>[Github]</strong></a></dd>
 <dd><strong><u>Wei Dai</u></strong>, Jiayi Chen, Fengliang Mi</dd>
 <dd>Under acceptance, 2024</dd>
@@ -177,8 +178,8 @@ hspace="10" wspace="20" src="../images/patent1.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/patent2.png">
 </dt>
-  <dd><a href="https://www.xjishu.com/zhuanli/55/202410893256.html"><strong>基于熵权法和统计偏差原则的多维角度评分系统及方法</strong></a>
-  <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1f190pa0cg3p08u06a6d0t00xv253723&site=xueshu_se"><strong>[百度学术]</strong></a></dd>
+  <dd><a href="https://www.xjishu.com/zhuanli/55/202410893256.html"><strong>Multidimensional scoring system and method based on entropy weight method and statistical bias principle</strong></a>
+  <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1f190pa0cg3p08u06a6d0t00xv253723&site=xueshu_se"><strong>[Baidu Scholar]</strong></a></dd>
 <dd>Jiayi Chen, <strong><u>Wei Dai</u></strong>, Fengliang Mi</dd>
 <dd>Under acceptance, 2024</dd>
 </dl>
@@ -189,8 +190,8 @@ hspace="10" wspace="20" src="../images/patent2.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/patent3.png">
 </dt>
-  <dd><a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n7y0xq0nf4k0eh0m754024005382777&site=xueshu_se"><strong>	一种基于LSTM的个性化心率异常监测方法 </strong></a>
-  <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n7y0xq0nf4k0eh0m754024005382777&site=xueshu_se"><strong>[百度学术]</strong></a></dd>
+  <dd><a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n7y0xq0nf4k0eh0m754024005382777&site=xueshu_se"><strong>A personalized heart rate anomaly monitoring method based on LSTM</strong></a>
+  <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n7y0xq0nf4k0eh0m754024005382777&site=xueshu_se"><strong>[Baidu Scholar]</strong></a></dd>
 <dd>Qiang Cui, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Wenting Wei</dd>
 <dd>Under acceptance, 2024</dd>
 </dl>
@@ -202,11 +203,11 @@ hspace="10" wspace="20" src="../images/patent3.png">
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em></em> ✨✨✨ <strong>国家级</strong>大创"智能运动视界-基于深度学习的体育训练反馈系统"<strong>负责人.</strong></li>
-  <li><em></em> ✨✨✨ <strong>国家级</strong>大创"无感知安全作业监测、绑定与应急指挥系统"<strong>核心成员.</strong></li>
-  <li><em></em> ✨✨✨ 大学生计算机创新作品赛<strong>国家级</strong>三等奖.</li>
-  <li><em></em> ✨✨✨ 全国大学生数学建模竞赛<strong>省级</strong> 二等奖.</li>
-  <li><em></em> ✨✨✨ 西安电子科技大学<strong>校级</strong>奖学金.</li>
+  <li><em></em> ✨✨✨ <strong>National level</strong>Leader of "Intelligent Sports Vision - Sports Training Feedback System Based on Deep Learning"<strong></li>
+  <li><em></em> ✨✨✨ <strong>National level</strong>Core member of "Unmanned Safety Operation Monitoring, Binding, and Emergency Command System"<strong></strong></li>
+  <li><em></em> ✨✨✨ College Student Computer Innovation Competition<strong>National level</strong>third prize.</li>
+  <li><em></em> ✨✨✨ mathematical contest in modeling<strong>provincial level</strong> second prize.</li>
+  <li><em></em> ✨✨✨ Xi'an University of Electronic Science and Technology<strong>school level</strong>scholarship.</li>
 </ul>
 </div>
 
