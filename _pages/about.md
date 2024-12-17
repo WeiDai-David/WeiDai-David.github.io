@@ -19,7 +19,7 @@ redirect_from:
     margin: 0px 10px 10px 0px; /* 图片居中 上右下左*/ 
     max-width: 100%; /* 限制图片最大宽度 */
   }
-\
+
   hr {
     border: 1px solid #ebebeb; /* 调整分隔线的颜色和样式 */
     /* margin: 10px;  */
@@ -55,7 +55,7 @@ redirect_from:
 
 
 
-My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xi'an University of Electronic Science and Technology, supervised by [Licheng Jiao](https://faculty.xidian.edu.cn/JLC/zh_CN/index.htm) [Google Scholar](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en)、[Xinbo Gao](https://web.xidian.edu.cn/xbgao/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VZVTOOIAAAAJ)、[Xi Yang](https://web.xidian.edu.cn/yangx/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=W5c-LSYAAAAJ). I also worked with PhD student at Luojiashan Laboratory, Wuhan University [Wenke Huang](https://wenkehuang.github.io/), PhD student at the School of Artificial Intelligence, Xi'an University of Electronic Science and Technology[Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ).  
+My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xi'an University of Electronic Science and Technology, supervised by [Licheng Jiao](https://faculty.xidian.edu.cn/JLC/zh_CN/index.htm) [Google Scholar](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en)、[Xinbo Gao](https://web.xidian.edu.cn/xbgao/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VZVTOOIAAAAJ)、[Xi Yang](https://web.xidian.edu.cn/yangx/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=W5c-LSYAAAAJ). I also worked with PhD student at Luojiashan Laboratory, Wuhan University [Wenke Huang](https://wenkehuang.github.io/), PhD student at the School of Artificial Intelligence, Xi'an University of Electronic Science and Technology [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ).  
 
 
 🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
@@ -112,7 +112,7 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 <dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), 2025 </dd>
 </dl>
 
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -123,7 +123,7 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
 <dd> International Conference on Learning Representations (<strong>Tsinghua-A ICLR</strong>), 2025</dd>
 </dl>
 
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -134,7 +134,7 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 <dd> CCF-C SCI-Q2 IF-2.84 (<strong> journal 《Expert System》 </strong>), 2025</dd>
 </dl>
 
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -145,7 +145,7 @@ hspace="10" wspace="20" src="../images/review1.png">
 <dd> Under review, 2025</dd>
 </dl>
 
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -197,7 +197,8 @@ hspace="10" wspace="20" src="../images/patent3.png">
 </dl>
 
 
-<div style="clear: both;"></div>
+<!-- <div style="clear: both;"></div> -->
+<hr>
 
 # 🎖 Awards
 
@@ -211,7 +212,8 @@ hspace="10" wspace="20" src="../images/patent3.png">
 </ul>
 </div>
 
-<div style="clear: both;"></div>
+<!-- <div style="clear: both;"></div> -->
+<hr>
 
 # 🎡 Service
 ## Conference Committee Member
