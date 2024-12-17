@@ -61,7 +61,7 @@ My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at 
 🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
 
-<!-- 🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!  -->
+🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to manifold Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!
 
 <!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
@@ -111,7 +111,7 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 <dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), 2025 </dd>
 </dl>
 
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -122,7 +122,7 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
 <dd> International Conference on Learning Representations (<strong>Tsinghua-A ICLR</strong>), 2025</dd>
 </dl>
 
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -150,7 +150,7 @@ hspace="10" wspace="20" src="../images/patent1.png">
 <dd>Under acceptance, 2024</dd>
 </dl>
 
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -162,7 +162,7 @@ hspace="10" wspace="20" src="../images/patent2.png">
 <dd>Under acceptance, 2024</dd>
 </dl>
 
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -175,8 +175,8 @@ hspace="10" wspace="20" src="../images/patent3.png">
 </dl>
 
 
+<br/>
 
-<hr>
 
 # 🎖 Awards
 
