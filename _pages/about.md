@@ -79,7 +79,7 @@ c) manifold learning
 d) diffusion model
 
 
-<!--
+
 <br/>
 
 # 🔥 News
@@ -97,19 +97,12 @@ d) diffusion model
   <li><em>2024.05:</em> ✨✨✨ Our survey about GNNs in Epidemic Modeling is accepted by <strong>KDD 2024</strong>. See you in Barcelona!</li>
   <li><em>2024.05:</em> ✨✨✨ One paper about self-supervised graph learning was accepted by <strong>ICML 2024</strong>. See you in Austria!</li>
   <li><em>2024.04:</em> 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected <a href="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers">paper list</a>.</li>
-  <li><em>2024.02:</em> I serve as a reviewer for <strong>ACM MM 2024</strong>.</li>
-  <li><em>2024.02:</em> I serve as a reviewer for <strong>ECCV 2024</strong>.</li>
-  <li><em>2023.12:</em> A paper was accepted to <strong>AAAI 2024</strong>. See you in Vancouver.</li>
-  <li><em>2023.11:</em> I serve as a reviewer for <strong>CVPR 2024</strong>.</li>
-  <li><em>2023.11:</em> 🚀🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our <a href="https://github.com/WenkeHuang/MarsFL">benchmarking codes</a> for your own research goal!</li>
-  <li><em>2023.10:</em> I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).</li>
-  <li><em>2023.10:</em> I won the National Scholarship for the second time (0.2% nation-wide), and was selected the Pacemaker to Merit Student (Award Rate: 60/59774=0.1%).</li>
-  <li><em>2023.08:</em> We attended <em>The 32nd INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (<strong>IJCAI</strong>)</em> and presented our work in Macao.</li>
+  <li><em>2023.12:</em> 🚀🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our <a href="https://github.com/WenkeHuang/MarsFL">benchmarking codes</a> for your own research goal!</li>
 </ul>
 </div>
 
 <br/>
--->
+
 
 
 # 📃 Publications
@@ -125,7 +118,7 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 <dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), 2025 </dd>
 </dl>
 
-<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -136,7 +129,7 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25.png">
 <dd> International Conference on Learning Representations (<strong>Tsinghua-A ICLR</strong>), 2025</dd>
 </dl>
 
-<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -147,7 +140,7 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 <dd> CCF-C SCI-Q2 IF-2.84 (<strong> journal 《Expert System》 </strong>), 2025</dd>
 </dl>
 
-<hr>
+
 
 <br>
 
@@ -164,7 +157,7 @@ hspace="10" wspace="20" src="../images/patent1.png">
 <dd>Under acceptance, 2024</dd>
 </dl>
 
-<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -176,7 +169,7 @@ hspace="10" wspace="20" src="../images/patent2.png">
 <dd>Under acceptance, 2024</dd>
 </dl>
 
-<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -188,7 +181,7 @@ hspace="10" wspace="20" src="../images/patent3.png">
 <dd>Under acceptance, 2024</dd>
 </dl>
 
-<hr>
+
 
 <br/>
 
@@ -196,20 +189,11 @@ hspace="10" wspace="20" src="../images/patent3.png">
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2024.11:</em> 🎈I was honored with <strong>Lei Jun Excellence Scholarship</strong> ~ <strong>100k</strong> (The <strong><u>Highest</u></strong> Scholarship at Wuhan University, <strong><u>Top-4</u></strong> among All Undergraduates, Award Rate ~ <strong>0.01%</strong>)</li>
-  <li><em>2024.11:</em> I serve as a reviewer for <strong>CVPR 2025</strong>.</li>
-  <li><em>2024.09:</em> ✨✨✨ Two papers were accepted by <strong>NeurIPS 2024</strong>. See you in Vancouver.</li>
-  <li><em>2024.08:</em> Organize a tutorial at <strong>KDD 2024</strong> in Barcelona on 25th, come if you are interested in epidemics + GNN!</li>
-  <li><em>2024.08:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
-  <li><em>2024.06:</em> ✨✨✨ One paper is accepted by <strong>TPAMI</strong>, congrats to all collaborators!</li>
-  <li><em>2024.05:</em> I serve as a reviewer for <strong>NeurIPS 2024</strong>.</li>
-  <li><em>2024.05:</em> ✨✨✨ Our survey about GNNs in Epidemic Modeling is accepted by <strong>KDD 2024</strong>. See you in Barcelona!</li>
-  <li><em>2024.05:</em> ✨✨✨ One paper about self-supervised graph learning was accepted by <strong>ICML 2024</strong>. See you in Austria!</li>
-  <li><em>2024.04:</em> 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected .</li>
-  <li><em>2024.02:</em> I serve as a reviewer for <strong>ACM MM 2024</strong>.</li>
-  <li><em>2024.02:</em> I serve as a reviewer for <strong>ECCV 2024</strong>.</li>
-  <li><em>2023.12:</em> A paper was accepted to <strong>AAAI 2024</strong>. See you in Vancouver.</li>
-  <li><em>2023.11:</em> I serve as a reviewer for <strong>CVPR 2024</strong>.</li>
+  <li><em></em> ✨✨✨ <strong>国家级</strong>大创"智能运动视界-基于深度学习的体育训练反馈系统"<strong>负责人.</strong></li>
+  <li><em></em> ✨✨✨ <strong>国家级</strong>大创"无感知安全作业监测、绑定与应急指挥系统"<strong>核心成员.</strong></li>
+  <li><em></em> ✨✨✨ 大学生计算机创新作品赛<strong>国家级</strong>三等奖.</li>
+  <li><em></em> ✨✨✨ 全国大学生数学建模竞赛<strong>省级</strong> 二等奖.</li>
+  <li><em></em> ✨✨✨ 西安电子科技大学<strong>校级</strong>奖学金.</li>
 </ul>
 </div>
 
