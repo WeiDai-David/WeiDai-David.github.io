@@ -122,7 +122,7 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/IGAM_ICLR25.png">
+hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
 </dt>
   <dd><strong>Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount</strong></dd>
 <dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Jiayi Chen</dd>
@@ -141,8 +141,8 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 </dl>
 
 
+<hr>
 
-<br>
 
 # 📝 national invention patent
 
@@ -183,7 +183,7 @@ hspace="10" wspace="20" src="../images/patent3.png">
 
 
 
-<br/>
+<hr>
 
 # 🎖 Awards
 
@@ -197,7 +197,7 @@ hspace="10" wspace="20" src="../images/patent3.png">
 </ul>
 </div>
 
-<br/>
+
 
 # 🎡 Service
 ## Conference Committee Member
