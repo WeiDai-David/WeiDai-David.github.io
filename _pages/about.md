@@ -227,8 +227,8 @@ hspace="10" wspace="20" src="../images/patent3.png">
 - *2022.09 - Now*, Undergraduate, School of Communication Engineering, Xi'an University of Electronic Science and Technology, China (GPA:3.9/4.0, Weighted Average scorc:91/100) 
 
 
-<dl><a href="https://clustrmaps.com/site/1c39i" title="Visit tracker"><img src="//clustrmaps.com/map_v2.js?d=0FwYpoiI1R6FqhSNSqmg_46Ky64lof1-KhrZ53oXy4g&cl=ffffff&w=a" /></a></dl>
-<!-- <dl><a href="https://clustrmaps.com/site/1c39i" title="Visit tracker"><img src="../images/World.png" /></a></dl> -->
+<!-- <dl><a href="https://clustrmaps.com/site/1c39i" title="Visit tracker"><img src="//clustrmaps.com/map_v2.js?d=0FwYpoiI1R6FqhSNSqmg_46Ky64lof1-KhrZ53oXy4g&cl=ffffff&w=a" /></a></dl> -->
+<dl><a href="https://clustrmaps.com/site/1c39i" title="Visit tracker"><img src="../images/World.png" /></a></dl>
 
 
 
