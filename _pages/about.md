@@ -153,9 +153,9 @@ hspace="10" wspace="20" src="../images/review2.png">
   <dd><strong>Exploring Beyond Logits: Hierarchical Dynamic Labeling Based on Embeddings for Semi-Supervised Classification</strong></dd>
 <dd>Jiayi Chen, Yanbiao ma, <strong><u>Wei Dai</u></strong></dd>
 <dd> Under review, 2025</dd>
-</dl><br>
+</dl>
 
-
+<div style="clear: both;"></div>
 
 
 # 📝 national invention patent
@@ -193,10 +193,10 @@ hspace="10" wspace="20" src="../images/patent3.png">
   <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n7y0xq0nf4k0eh0m754024005382777&site=xueshu_se"><strong>[百度学术]</strong></a></dd>
 <dd>Qiang Cui, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Wenting Wei</dd>
 <dd>Under acceptance, 2024</dd>
-</dl><br>
+</dl>
 
 
-
+<div style="clear: both;"></div>
 
 # 🎖 Awards
 
