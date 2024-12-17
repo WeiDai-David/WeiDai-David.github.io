@@ -111,7 +111,7 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 <dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), 2025 </dd>
 </dl>
 
-<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -122,7 +122,7 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
 <dd> International Conference on Learning Representations (<strong>Tsinghua-A ICLR</strong>), 2025</dd>
 </dl>
 
-<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -133,7 +133,7 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 <dd> CCF-C SCI-Q2 IF-2.84 (<strong> journal 《Expert System》 </strong>), 2025</dd>
 </dl>
 
-<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -144,7 +144,7 @@ hspace="10" wspace="20" src="../images/review1.png">
 <dd> Under review, 2025</dd>
 </dl>
 
-<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -153,9 +153,9 @@ hspace="10" wspace="20" src="../images/review2.png">
   <dd><strong>Exploring Beyond Logits: Hierarchical Dynamic Labeling Based on Embeddings for Semi-Supervised Classification</strong></dd>
 <dd>Jiayi Chen, Yanbiao ma, <strong><u>Wei Dai</u></strong></dd>
 <dd> Under review, 2025</dd>
-</dl>
+</dl><br>
 
-<hr>
+
 
 
 # 📝 national invention patent
@@ -171,7 +171,7 @@ hspace="10" wspace="20" src="../images/patent1.png">
 <dd>Under acceptance, 2024</dd>
 </dl>
 
-<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -183,7 +183,7 @@ hspace="10" wspace="20" src="../images/patent2.png">
 <dd>Under acceptance, 2024</dd>
 </dl>
 
-<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -193,10 +193,10 @@ hspace="10" wspace="20" src="../images/patent3.png">
   <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n7y0xq0nf4k0eh0m754024005382777&site=xueshu_se"><strong>[百度学术]</strong></a></dd>
 <dd>Qiang Cui, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Wenting Wei</dd>
 <dd>Under acceptance, 2024</dd>
-</dl>
+</dl><br>
 
 
-<br/>
+
 
 # 🎖 Awards
 
