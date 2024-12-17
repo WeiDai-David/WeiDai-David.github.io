@@ -87,17 +87,10 @@ d) diffusion model
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2024.11:</em> 🎈I was honored with <strong>Lei Jun Excellence Scholarship</strong> ~ <strong>100k</strong> (The <strong><u>Highest</u></strong> Scholarship at Wuhan University, <strong><u>Top-4</u></strong> among All Undergraduates, Award Rate ~ <strong>0.01%</strong>)</li>
-  <li><em>2024.11:</em> I serve as a reviewer for <strong>CVPR 2025</strong>.</li>
-  <li><em>2024.09:</em> ✨✨✨ Two papers were accepted by <strong>NeurIPS 2024</strong>. See you in Vancouver.</li>
-  <li><em>2024.08:</em> Organize a tutorial at <strong>KDD 2024</strong> in Barcelona on 25th, come if you are interested in epidemics + GNN!</li>
-  <li><em>2024.08:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
-  <li><em>2024.06:</em> ✨✨✨ One paper is accepted by <strong>TPAMI</strong>, congrats to all collaborators!</li>
-  <li><em>2024.05:</em> I serve as a reviewer for <strong>NeurIPS 2024</strong>.</li>
-  <li><em>2024.05:</em> ✨✨✨ Our survey about GNNs in Epidemic Modeling is accepted by <strong>KDD 2024</strong>. See you in Barcelona!</li>
-  <li><em>2024.05:</em> ✨✨✨ One paper about self-supervised graph learning was accepted by <strong>ICML 2024</strong>. See you in Austria!</li>
-  <li><em>2024.04:</em> 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected <a href="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers">paper list</a>.</li>
-  <li><em>2023.12:</em> 🚀🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our <a href="https://github.com/WenkeHuang/MarsFL">benchmarking codes</a> for your own research goal!</li>
+  <li><em>2024.12:</em> 🚀🚀🚀 We will continue the work of 2025Tpami and solve the problem of misalignment between online enhanced semantic ratios and linear label ratios in manifold space.</li>
+  <li><em>2024.12:</em> 🚀🚀🚀 We will continue the work of 2025CVPR and comprehensively analyze federated learning data augmentation from a geometric perspective in manifold space. In the following work, we will focus on class prototypes, Gaussian enhancement, and perceptual manifold geometric features.</li>
+  <li><em>2024.12:</em> 🚀🚀🚀 We are enthusiastic about achieving the transition from pixel layer to image layer in segmentation tasks. In the future, we will carry out region instance prototype distribution recovery for long tail segmentation scenes from manifold space.</li>
+  <li><em>2024.12:</em> 🚀🚀🚀This is a major challenge!!! In our work on clip and dinov2, we discovered the non-uniformity of class prototypes, which will lead to a series of problems and hinder the development of large-scale models. In the future, we will focus on manifold space, try to explain the underlying mechanisms, and solve this bias.</li>
 </ul>
 </div>
 
