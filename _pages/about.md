@@ -57,6 +57,7 @@ redirect_from:
 
 My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xi'an University of Electronic Science and Technology, supervised by [Licheng Jiao](https://faculty.xidian.edu.cn/JLC/zh_CN/index.htm) [Google Scholar](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en)、[Xinbo Gao](https://web.xidian.edu.cn/xbgao/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VZVTOOIAAAAJ)、[Xi Yang](https://web.xidian.edu.cn/yangx/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=W5c-LSYAAAAJ). I also worked with PhD student at Luojiashan Laboratory, Wuhan University [Wenke Huang](https://wenkehuang.github.io/), PhD student at the School of Artificial Intelligence, Xi'an University of Electronic Science and Technology [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ).  
 
+🎈 <a href="https://weidai-david-chinese.github.io/"><strong>中文版</strong></a>
 
 🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
@@ -172,7 +173,7 @@ hspace="10" wspace="20" src="../images/patent1.png">
 <dd>Under acceptance, 2024</dd>
 </dl>
 
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -184,7 +185,7 @@ hspace="10" wspace="20" src="../images/patent2.png">
 <dd>Under acceptance, 2024</dd>
 </dl>
 
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -225,9 +226,9 @@ hspace="10" wspace="20" src="../images/patent3.png">
 # 📖 Educations
 - *2022.09 - Now*, Undergraduate, School of Communication Engineering, Xi'an University of Electronic Science and Technology, China (GPA:3.9/4.0, Weighted Average scorc:91/100) 
 
-<!-- 
-<dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
--->
+
+<dl><a href="https://clustrmaps.com/site/1c39i" title="Visit tracker"><img src="//clustrmaps.com/map_v2.js?d=0FwYpoiI1R6FqhSNSqmg_46Ky64lof1-KhrZ53oXy4g&cl=ffffff&w=a" /></a></dl>
+
 
 
 <!-- 
