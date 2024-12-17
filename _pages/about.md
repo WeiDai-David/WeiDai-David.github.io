@@ -203,15 +203,15 @@ hspace="10" wspace="20" src="../images/patent3.png">
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em></em> ✨✨✨ <strong>National level</strong>Leader of "Intelligent Sports Vision - Sports Training Feedback System Based on Deep Learning"<strong></li>
-  <li><em></em> ✨✨✨ <strong>National level</strong>Core member of "Unmanned Safety Operation Monitoring, Binding, and Emergency Command System"<strong></strong></li>
+  <li><em></em> ✨✨✨ <strong>National level</strong>Leader of "Intelligent Sports Vision - Sports Training Feedback System Based on Deep Learning"</li>
+  <li><em></em> ✨✨✨ <strong>National level</strong>Core member of "Unmanned Safety Operation Monitoring, Binding, and Emergency Command System"</li>
   <li><em></em> ✨✨✨ College Student Computer Innovation Competition<strong>National level</strong>third prize.</li>
   <li><em></em> ✨✨✨ mathematical contest in modeling<strong>provincial level</strong> second prize.</li>
   <li><em></em> ✨✨✨ Xi'an University of Electronic Science and Technology<strong>school level</strong>scholarship.</li>
 </ul>
 </div>
 
-<br/>
+<div style="clear: both;"></div>
 
 # 🎡 Service
 ## Conference Committee Member
