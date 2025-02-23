@@ -77,7 +77,7 @@ b) Trustworthy Machine Learning
 
 c) Science for ai
 -  Neuroscience
-- Cognitive Science
+-  Cognitive Science
 -  Physics
 
 
@@ -89,10 +89,12 @@ c) Science for ai
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.2:</em> My paper published as the second author has been accepted by the top machine learning conference ICLR, See you in Singapore.</li>
-  <li><em>2025.1:</em> My paper published as the first author has been accepted by the third district of the Chinese Academy of Sciences and the JCR Q2 journal《Entropy》.</li>
-  <li><em>2024.12:</em> My paper published as the first author has been accepted by the CCF-C and JCR Q1 journals《Expert Systems》 </li>
-  <li><em>2024.10:</em> I was honored with a scholarship from Xi'an University of Electronic Science and Technology.</li>
+  <li><em>2025.2:</em> ✨✨✨ I serve as a reviewer for 《IEEE Access》</li>
+  <li><em>2025.2:</em> 🚀🚀🚀 One paper is accepted by ICLR. See you in Singapore.</li>
+  <li><em>2025.1:</em> 🚀🚀🚀 One paper is accepted by journal《Entropy》</li>
+  <li><em>2024.12:</em> ✨✨✨ I serve as a reviewer for CVPR 2025.</li>
+  <li><em>2024.12:</em> 🚀🚀🚀 One paper is accepted by journal《Expert Systems》 </li>
+  <li><em>2024.10:</em> 🎈 I was honored with a scholarship from Xi'an University of Electronic Science and Technology.</li>
 </ul>
 </div>
 
@@ -109,7 +111,8 @@ c) Science for ai
 hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 </dt>
   <dd><strong>Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning</strong></dd>
-<dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd>
+<!-- <dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd> -->
+<dd><strong><u>Wei Dai&dagger; </u></strong>, Yanbiao Ma&dagger;, Wenke Huang, Jiayi Chen</dd>
 <dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), 2025 </dd>
 </dl>
 
@@ -132,7 +135,7 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 </dt>
   <dd><strong>Guideline for Novel Fine‐Grained Sentiment Annotation and Data Curation: A Case Study</strong></dd>
 <dd><strong><u>Wei Dai</u></strong>, Wanqiu Kong, Tao Shang, Jianhong Feng, Jiaji Wu, Tan Qu</dd>
-<dd> CCF-C SCI-Q2 IF-2.84 (<strong> journal 《Expert System》 </strong>), 2025</dd>
+<dd> CCF-C JCR-Q1 IF-3 <strong>  journal 《Expert System》 </strong>, 2025</dd>
 </dl>
 
 <hr>
@@ -142,7 +145,30 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 hspace="10" wspace="20" src="../images/review1.png">
 </dt>
   <dd><strong>Trade-Offs Between Richness and Bias of Augmented Data in Long-Tailed Recognition</strong></dd>
-<dd><strong><u>Wei Dai</u></strong>, Yanbiao Ma, Jiayi Chen</dd>
+<dd><strong><u>Wei Dai</u></strong>, Yanbiao Ma, Jiayi Chen, Xiaohua Chen, Shuo Li</dd>
+<dd> CAS-Q3 JCR-Q2 IF-2.2 <strong>  journal 《Entropy》 </strong>, 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/review4.png">
+</dt>
+  <dd><strong>Revealing Bias Formation in Deep Neural Networks Through the
+ Geometric Mechanisms of Human Visual Decoupling</strong></dd>
+<dd>Yanbiao Ma, Bowei Liu, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Shuo Li</dd>
+<dd> Under review, 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/review3.png">
+</dt>
+  <dd><strong>Compositional Attribute Imbalance in Vision Datasets</strong></dd>
+<dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Shuo Li</dd>
 <dd> Under review, 2025</dd>
 </dl>
 
@@ -153,7 +179,7 @@ hspace="10" wspace="20" src="../images/review1.png">
 hspace="10" wspace="20" src="../images/review2.png">
 </dt>
   <dd><strong>Exploring Beyond Logits: Hierarchical Dynamic Labeling Based on Embeddings for Semi-Supervised Classification</strong></dd>
-<dd>Jiayi Chen, Yanbiao ma, <strong><u>Wei Dai</u></strong></dd>
+<dd>Jiayi Chen, Yanbiao Ma, <strong><u>Wei Dai</u></strong></dd>
 <dd> Under review, 2025</dd>
 </dl>
 
@@ -197,6 +223,16 @@ hspace="10" wspace="20" src="../images/patent3.png">
 <dd>Under acceptance, 2024</dd>
 </dl>
 
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/patent3.png">
+</dt>
+  <dd><a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=18520tm03g600gs06p2w0c7081358990"><strong>A method and device for constructing a fine-grained sentiment analysis dataset</strong></a>
+  <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=18520tm03g600gs06p2w0c7081358990"><strong>[Baidu Scholar]</strong></a></dd>
+<dd>Wanqiu Kong, Shangnan Zhou, <strong><u>Wei Dai</u></strong>, Yiwen Li</dd>
+<dd>Under acceptance, 2024</dd>
+</dl>
+
 
 <!-- <div style="clear: both;"></div> -->
 <hr>
@@ -220,6 +256,7 @@ hspace="10" wspace="20" src="../images/patent3.png">
 ## Conference Committee Member
 - Reviewer for ICLR'2025
 - Reviewer for CVPR'2025
+- Reviewer for IEEE Access
 
 
 
