@@ -257,6 +257,8 @@ hspace="10" wspace="20" src="../images/patent4.png">
 ## Conference Committee Member
 - Reviewer for ICLR'2025
 - Reviewer for CVPR'2025
+- Reviewer for ICML'2025
+## Journal Reviewer
 - Reviewer for IEEE Access
 
 
