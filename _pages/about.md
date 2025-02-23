@@ -76,9 +76,9 @@ a) Unfairness & Prejudice
 b) Trustworthy Machine Learning
 
 c) Science for ai
-  1) Neuroscience
-  2) Cognitive Science
-  3) Physics
+-  Neuroscience
+- Cognitive Science
+-  Physics
 
 
 
