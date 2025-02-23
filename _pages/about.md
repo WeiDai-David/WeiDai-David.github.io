@@ -55,14 +55,16 @@ redirect_from:
 
 
 
-My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xi'an University of Electronic Science and Technology, supervised by [Licheng Jiao](https://faculty.xidian.edu.cn/JLC/zh_CN/index.htm) [Google Scholar](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en)、[Xinbo Gao](https://web.xidian.edu.cn/xbgao/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VZVTOOIAAAAJ)、[Xi Yang](https://web.xidian.edu.cn/yangx/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=W5c-LSYAAAAJ). I also worked with PhD student at Luojiashan Laboratory, Wuhan University [Wenke Huang](https://wenkehuang.github.io/), PhD student at the School of Artificial Intelligence, Xi'an University of Electronic Science and Technology [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ).  
+My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xi'an University of Electronic Science and Technology, supervised by [Licheng Jiao](https://faculty.xidian.edu.cn/JLC/zh_CN/index.htm) [Google Scholar](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en). I also worked with PhD student at Luojiashan Laboratory, Wuhan University [Wenke Huang](https://wenkehuang.github.io/), PhD student at the School of Artificial Intelligence, Xi'an University of Electronic Science and Technology [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ).  
+
+<!-- 、[Xinbo Gao](https://web.xidian.edu.cn/xbgao/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VZVTOOIAAAAJ)、[Xi Yang](https://web.xidian.edu.cn/yangx/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=W5c-LSYAAAAJ) -->
 
 <!-- 🎈 <a href="https://weidai-david-chinese.github.io/"><strong>中文版学术主页</strong></a> -->
 
-🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a Direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
 
-🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to deep Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!
+🌟 I'm currently actively seeking for Research Assistant, or internship positions related to deep Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!
 
 <!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
@@ -121,7 +123,7 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
 </dt>
-  <dd><strong>Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount</strong></dd>
+  <dd><a href="https://openreview.net/forum?id=LW55JrLYPg"><strong>Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount</strong></dd>
 <dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Jiayi Chen</dd>
 <dd> International Conference on Learning Representations (<strong>Tsinghua-A ICLR</strong>), 2025</dd>
 </dl>
@@ -143,7 +145,7 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/review1.png">
 </dt>
-  <dd><strong>Trade-Offs Between Richness and Bias of Augmented Data in Long-Tailed Recognition</strong></dd>
+  <dd><a href="https://www.mdpi.com/1099-4300/27/2/201"><strong>Trade-Offs Between Richness and Bias of Augmented Data in Long-Tailed Recognition</strong></dd>
 <dd><strong><u>Wei Dai</u></strong>, Yanbiao Ma, Jiayi Chen, Xiaohua Chen, Shuo Li</dd>
 <dd> CAS-Q3 JCR-Q2 IF-2.2 <strong>  journal 《Entropy》 </strong>, 2025</dd>
 </dl>
@@ -154,7 +156,7 @@ hspace="10" wspace="20" src="../images/review1.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/review4.png">
 </dt>
-  <dd><strong>Revealing Bias Formation in Deep Neural Networks Through the
+  <dd><a href="https://arxiv.org/pdf/2502.11809"><strong>Revealing Bias Formation in Deep Neural Networks Through the
  Geometric Mechanisms of Human Visual Decoupling</strong></dd>
 <dd>Yanbiao Ma, Bowei Liu, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Shuo Li</dd>
 <dd> Under review, 2025</dd>
