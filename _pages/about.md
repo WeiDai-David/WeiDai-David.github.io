@@ -81,7 +81,6 @@ c) Science for ai
 -  Physics
 
 
-
 <br/>
 
 # 🔥 News
@@ -225,7 +224,7 @@ hspace="10" wspace="20" src="../images/patent3.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/patent3.png">
+hspace="10" wspace="20" src="../images/patent4.png">
 </dt>
   <dd><a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=18520tm03g600gs06p2w0c7081358990"><strong>A method and device for constructing a fine-grained sentiment analysis dataset</strong></a>
   <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=18520tm03g600gs06p2w0c7081358990"><strong>[Baidu Scholar]</strong></a></dd>
