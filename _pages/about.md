@@ -123,7 +123,7 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
 </dt>
-  <dd><a href="https://openreview.net/forum?id=LW55JrLYPg"><strong>Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount</strong></dd>
+  <dd><a href="https://openreview.net/forum?id=LW55JrLYPg"><strong>Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount</strong></a></dd>
 <dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Jiayi Chen</dd>
 <dd> International Conference on Learning Representations (<strong>Tsinghua-A ICLR</strong>), 2025</dd>
 </dl>
@@ -145,7 +145,7 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/review1.png">
 </dt>
-  <dd><a href="https://www.mdpi.com/1099-4300/27/2/201"><strong>Trade-Offs Between Richness and Bias of Augmented Data in Long-Tailed Recognition</strong></dd>
+  <dd><a href="https://www.mdpi.com/1099-4300/27/2/201"><strong>Trade-Offs Between Richness and Bias of Augmented Data in Long-Tailed Recognition</strong></a></dd>
 <dd><strong><u>Wei Dai</u></strong>, Yanbiao Ma, Jiayi Chen, Xiaohua Chen, Shuo Li</dd>
 <dd> CAS-Q3 JCR-Q2 IF-2.2 <strong>  journal 《Entropy》 </strong>, 2025</dd>
 </dl>
@@ -157,7 +157,7 @@ hspace="10" wspace="20" src="../images/review1.png">
 hspace="10" wspace="20" src="../images/review4.png">
 </dt>
   <dd><a href="https://arxiv.org/pdf/2502.11809"><strong>Revealing Bias Formation in Deep Neural Networks Through the
- Geometric Mechanisms of Human Visual Decoupling</strong></dd>
+ Geometric Mechanisms of Human Visual Decoupling</strong></a></dd>
 <dd>Yanbiao Ma, Bowei Liu, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Shuo Li</dd>
 <dd> Under review, 2025</dd>
 </dl>
