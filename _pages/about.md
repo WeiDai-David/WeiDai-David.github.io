@@ -62,22 +62,23 @@ My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at 
 🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
 
-🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to manifold Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!
+🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to deep Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!
 
 <!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
 # 🔎 Research 
-"Any data is distributed in manifold space, and we use manifolds to explain objective physical laws" 
+"The laws of the physical world serve as the fundamental driving force behind the advancement of artificial intelligence" 
 
-I am passionate about using <u>geometric perspectives</u> to explain laws in the world of manifolds. Currently, my research interests mainly focus on the following aspects:
+I am passionate about using <u>physical Laws</u> to explain principle in the world. Currently, my research interests mainly focus on the following aspects:
 
-a) unfairness & Prejudice
+a) Unfairness & Prejudice
 
 b) Trustworthy Machine Learning
 
-c) manifold learning
-
-d) diffusion model
+c) Science for ai
+  1) Neuroscience
+  2) Cognitive Science
+  3) Physics
 
 
 
@@ -88,11 +89,10 @@ d) diffusion model
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2024.12:</em> 🚀🚀🚀 We will continue the work of 2025Tpami and solve the problem of misalignment between online enhanced semantic ratios and linear label ratios in manifold space.</li>
-  <li><em>2024.12:</em> 🚀🚀🚀 We will continue the work of 2025CVPR and comprehensively analyze federated learning data augmentation from a geometric perspective in manifold space. In the following work, we will focus on class prototypes, Gaussian enhancement, and perceptual manifold geometric features.</li>
-  <li><em>2024.12:</em> 🚀🚀🚀 We are enthusiastic about achieving the transition from pixel layer to image layer in segmentation tasks. In the future, we will carry out region instance prototype distribution recovery for long tail segmentation scenes from manifold space.</li>
-  <li><em>2024.12:</em> 🚀🚀🚀 This is a major challenge!!! In our work on clip and dinov2, we discovered the non-uniformity of class prototypes, which will lead to a series of problems and hinder the development of large-scale models. In the future, we will focus on manifold space, try to explain the underlying mechanisms, and solve this bias.</li>
-  <li><em>2024.11:</em> 🚀🚀🚀 Inspired by the alignment strategy of Xie Saining's team, we will further investigate the bias issue of diffusion models.</li>
+  <li><em>2025.2:</em> My paper published as the second author has been accepted by the top machine learning conference ICLR, See you in Singapore.</li>
+  <li><em>2025.1:</em> My paper published as the first author has been accepted by the third district of the Chinese Academy of Sciences and the JCR Q2 journal《Entropy》.</li>
+  <li><em>2024.12:</em> My paper published as the first author has been accepted by the CCF-C and JCR Q1 journals《Expert Systems》 </li>
+  <li><em>2024.10:</em> I was honored with a scholarship from Xi'an University of Electronic Science and Technology.</li>
 </ul>
 </div>
 
