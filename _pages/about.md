@@ -134,7 +134,7 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 </dt>
-  <dd><strong>Guideline for Novel Fine‐Grained Sentiment Annotation and Data Curation: A Case Study</strong></dd>
+  <dd><a href="https://onlinelibrary.wiley.com/doi/10.1111/exsy.70022"><strong>Guideline for Novel Fine‐Grained Sentiment Annotation and Data Curation: A Case Study</strong></a></dd>
 <dd><strong><u>Wei Dai</u></strong>, Wanqiu Kong, Tao Shang, Jianhong Feng, Jiaji Wu, Tan Qu</dd>
 <dd> CCF-C JCR-Q1 IF-3 <strong>  journal 《Expert System》 </strong>, 2025</dd>
 </dl>
