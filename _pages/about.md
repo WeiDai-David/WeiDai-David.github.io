@@ -112,8 +112,8 @@ c) Science for ai
 hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 </dt>
   <dd><strong>Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning</strong></dd>
-<!-- <dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd> -->
-<dd><strong><u>Wei Dai&dagger; </u></strong>, Yanbiao Ma&dagger;, Wenke Huang, Jiayi Chen</dd>
+<dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd>
+<!-- <dd><strong><u>Wei Dai&dagger; </u></strong>, Yanbiao Ma&dagger;, Wenke Huang, Jiayi Chen</dd> -->
 <dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), 2025 </dd>
 </dl>
 
