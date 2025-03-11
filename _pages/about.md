@@ -112,7 +112,7 @@ c) Science for ai
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 </dt>
-  <dd><strong>Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning</strong>
+  <dd><a href="https://arxiv.org/pdf/2503.06457"><strong>Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning</strong></a>
   <a href="https://github.com/WeiDai-David/2025CVPR_GGEUR"><strong>[Github]</strong></a>
   <a href="https://huggingface.co/datasets/WeiDai-David/Office-Home-LDS"><strong>[Dataset]</strong></a></dd>
 <dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd>
