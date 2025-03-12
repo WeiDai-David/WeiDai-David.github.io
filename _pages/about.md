@@ -73,13 +73,13 @@ My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at 
 
 I am passionate about using <u>physical Laws</u> to explain principle in the world. Currently, my research interests mainly focus on the following aspects:
 
-a) Unfairness & Prejudice
+a) Trustworthy Machine Learning
 
-b) Trustworthy Machine Learning
+b) Federated Learning
 
 c) Science for ai
--  Neuroscience
 -  Cognitive Science
+-  Neuroscience
 -  Physics
 
 
