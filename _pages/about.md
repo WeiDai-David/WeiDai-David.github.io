@@ -90,14 +90,14 @@ c) Science for ai
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.3:</em> 🌐 Office-Home-LDS Dataset is publicly available! [🔗Link](https://huggingface.co/datasets/WeiDai-David/Office-Home-LDS)  .</li>
-  <li><em>2025.3:</em> 🌐 2025CVPR_GGEUR Code is publicly available! [🔗Link](https://github.com/WeiDai-David/2025CVPR_GGEUR)  .</li>
+  <li><em>2025.3:</em> 🌐 Office-Home-LDS Dataset is publicly available! </li>
+  <li><em>2025.3:</em> 🌐 2025CVPR_GGEUR Code is publicly available! </li>
   <li><em>2025.3:</em> 🚀🚀🚀 One paper is accepted by CVPR(5/5/5/4). See you in Tennessee.</li>
-  <li><em>2025.2:</em> ✨✨✨ I serve as a reviewer for 《IEEE Access》</li>
+  <li><em>2025.2:</em> ✨✨✨ I serve as a reviewer for 《IEEE Access》.</li>
   <li><em>2025.2:</em> 🚀🚀🚀 One paper is accepted by ICLR. See you in Singapore.</li>
-  <li><em>2025.1:</em> 🚀🚀🚀 One paper is accepted by journal《Entropy》</li>
+  <li><em>2025.1:</em> 🚀🚀🚀 One paper is accepted by journal《Entropy》.</li>
   <li><em>2024.12:</em> ✨✨✨ I serve as a reviewer for CVPR 2025.</li>
-  <li><em>2024.12:</em> 🚀🚀🚀 One paper is accepted by journal《Expert Systems》 </li>
+  <li><em>2024.12:</em> 🚀🚀🚀 One paper is accepted by journal《Expert Systems》.</li>
   <li><em>2024.10:</em> 🎈 I was honored with a scholarship from Xi'an University of Electronic Science and Technology.</li>
 </ul>
 </div>
