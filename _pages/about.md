@@ -159,6 +159,17 @@ hspace="10" wspace="20" src="../images/review1.png">
 
 <dl>
   <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/review2.png">
+</dt>
+  <dd><a href="https://ieeexplore.ieee.org/document/10938612"><strong>Exploring Beyond Logits: Hierarchical Dynamic Labeling Based on Embeddings for Semi-Supervised Classification</strong></a></dd>
+<dd>Jiayi Chen, Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Xiaohua Chen, Shuo Li</dd>
+<dd> CAS-Q4 JCR-Q2 IF-3.4 <strong>  journal 《IEEE Access》 </strong>, 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/review4.png">
 </dt>
   <dd><a href="https://arxiv.org/pdf/2502.11809"><strong>Revealing Bias Formation in Deep Neural Networks Through the
@@ -178,16 +189,6 @@ hspace="10" wspace="20" src="../images/review3.png">
 <dd> Under review, 2025</dd>
 </dl>
 
-<hr>
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/review2.png">
-</dt>
-  <dd><strong>Exploring Beyond Logits: Hierarchical Dynamic Labeling Based on Embeddings for Semi-Supervised Classification</strong></dd>
-<dd>Jiayi Chen, Yanbiao Ma, <strong><u>Wei Dai</u></strong></dd>
-<dd> Under review, 2025</dd>
-</dl>
 
 <div style="clear: both;"></div>
 
