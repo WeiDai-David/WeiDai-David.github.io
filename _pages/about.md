@@ -90,6 +90,7 @@ c) Science for ai
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.3:</em> 🚀🚀🚀 A CVPR article was accepted as Oral!</li>
   <li><em>2025.3:</em> 🌐 Office-Home-LDS Dataset is publicly available! </li>
   <li><em>2025.3:</em> 🌐 2025CVPR_GGEUR Code is publicly available! </li>
   <li><em>2025.3:</em> 🚀🚀🚀 One paper is accepted by CVPR(5/5/5/4). See you in Tennessee.</li>
@@ -119,7 +120,7 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
   <a href="https://huggingface.co/datasets/WeiDai-David/Office-Home-LDS"><strong>[Dataset]</strong></a></dd>
 <dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd>
 <!-- <dd><strong><u>Wei Dai&dagger; </u></strong>, Yanbiao Ma&dagger;, Wenke Huang, Jiayi Chen</dd> -->
-<dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), 2025 </dd>
+<dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), <strong class="co-first"><i>Oral Presentation (Top 0.5%)</i></strong>, 2025 </dd>
 </dl>
 
 <hr>
