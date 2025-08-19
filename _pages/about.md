@@ -55,7 +55,7 @@ redirect_from:
 
 
 
-My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xi'an University of Electronic Science and Technology, supervised by [Licheng Jiao](https://faculty.xidian.edu.cn/JLC/zh_CN/index.htm) [Google Scholar](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en). I also worked with PhD student at Luojiashan Laboratory, Wuhan University [Wenke Huang](https://wenkehuang.github.io/), PhD student at the School of Artificial Intelligence, Xi'an University of Electronic Science and Technology [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ).  
+My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xidian University, supervised by [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en). I also worked with PhD student at School of Computer Science, Wuhan University [Wenke Huang](https://wenkehuang.github.io/), PhD student at the School of Artificial Intelligence, Xidian University [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ).  
 
 <!-- 、[Xinbo Gao](https://web.xidian.edu.cn/xbgao/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VZVTOOIAAAAJ)、[Xi Yang](https://web.xidian.edu.cn/yangx/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=W5c-LSYAAAAJ) -->
 
@@ -73,14 +73,11 @@ My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at 
 
 I am passionate about using <u>physical Laws</u> to explain principle in the world. Currently, my research interests mainly focus on the following aspects:
 
-a) Trustworthy Machine Learning
+a) Transfer Learning (especially infor theory)
 
-b) Federated Learning
+b) Trustworthy Machine Learning
 
-c) Science for ai
--  Cognitive Science
--  Neuroscience
--  Physics
+c) Federated Learning
 
 
 <br/>
@@ -99,7 +96,7 @@ c) Science for ai
   <li><em>2025.1:</em> 🚀🚀🚀 One paper is accepted by journal《Entropy》.</li>
   <li><em>2024.12:</em> ✨✨✨ I serve as a reviewer for CVPR 2025.</li>
   <li><em>2024.12:</em> 🚀🚀🚀 One paper is accepted by journal《Expert Systems》.</li>
-  <li><em>2024.10:</em> 🎈 I was honored with a scholarship from Xi'an University of Electronic Science and Technology.</li>
+  <li><em>2024.10:</em> 🎈 I was honored with a scholarship from Xidian University.</li>
 </ul>
 </div>
 
@@ -167,7 +164,7 @@ hspace="10" wspace="20" src="../images/review2.png">
 <dd> CAS-Q4 JCR-Q2 IF-3.4 <strong>  journal 《IEEE Access》 </strong>, 2025</dd>
 </dl>
 
-<hr>
+<!-- <hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -177,9 +174,9 @@ hspace="10" wspace="20" src="../images/review4.png">
  Geometric Mechanisms of Human Visual Decoupling</strong></a></dd>
 <dd>Yanbiao Ma, Bowei Liu, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Shuo Li</dd>
 <dd> Under review, 2025</dd>
-</dl>
+</dl> -->
 
-<hr>
+<!-- <hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -188,7 +185,7 @@ hspace="10" wspace="20" src="../images/review3.png">
   <dd><strong>Compositional Attribute Imbalance in Vision Datasets</strong></dd>
 <dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Shuo Li</dd>
 <dd> Under review, 2025</dd>
-</dl>
+</dl> -->
 
 
 <div style="clear: both;"></div>
@@ -253,7 +250,7 @@ hspace="10" wspace="20" src="../images/patent4.png">
   <li><em></em> ✨✨✨ <strong>National level</strong> Core member of "Unmanned Safety Operation Monitoring, Binding, and Emergency Command System"</li>
   <li><em></em> ✨✨✨ College Student Computer Innovation Competition <strong>National level</strong> third prize.</li>
   <li><em></em> ✨✨✨ mathematical contest in modeling <strong>provincial level</strong> second prize.</li>
-  <li><em></em> ✨✨✨ Xi'an University of Electronic Science and Technology <strong>school level</strong> scholarship.</li>
+  <li><em></em> ✨✨✨ Xidian University <strong>school level</strong> scholarship.</li>
 </ul>
 </div>
 
