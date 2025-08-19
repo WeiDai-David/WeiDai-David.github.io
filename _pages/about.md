@@ -66,6 +66,8 @@ My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at 
 
 🌟 I'm currently actively seeking for Research Assistant, or internship positions related to deep Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!
 
+🌟 Newest update: I am currently interning at TBSI, focusing on in-context learning and efficient transfer learning. I look forward to sharing new research findings soon.
+
 <!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
 # 🔎 Research 
