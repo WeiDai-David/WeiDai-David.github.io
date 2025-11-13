@@ -55,20 +55,18 @@ redirect_from:
 
 
 
-My name is Wei Dai (戴威), I'm a 3<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xidian University, supervised by [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en). I also worked with PhD student at School of Computer Science, Wuhan University [Wenke Huang](https://wenkehuang.github.io/), PhD student at the School of Artificial Intelligence, Xidian University [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ).  
-
-<!-- 、[Xinbo Gao](https://web.xidian.edu.cn/xbgao/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VZVTOOIAAAAJ)、[Xi Yang](https://web.xidian.edu.cn/yangx/) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=W5c-LSYAAAAJ) -->
-
-<!-- 🎈 <a href="https://weidai-david-chinese.github.io/"><strong>中文版学术主页</strong></a> -->
-
-🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a Direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+My name is Wei Dai (戴威), I'm a 4<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xidian University, supervised by [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ&view_op=list_works&sortby=pubdate). Meanwhile, I'm a 4<sup>th</sup>-year undergraduate student at the School of Electronic Engineering, Heriot-Watt University, supervised by [João Mota](https://scholar.google.com/citations?user=lFjaYrAAAAAJ&hl=zh-CN&oi=sra). Furthermore, I am a direct PhD student of the 2026 cohort at Tsinghua University,supervised by [Shao-lun Huang](https://scholar.google.com/citations?user=C3veL0IAAAAJ&hl=zh-CN&oi=ao)
 
 
-🌟 I'm currently actively seeking for Research Assistant, or internship positions related to deep Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!
+<!-- 🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a Direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> -->
 
-🌟 Newest update: I am currently interning at TBSI, focusing on in-context learning and efficient transfer learning. I look forward to sharing new research findings soon.
 
-<!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
+<!-- 🌟 I'm currently actively seeking for Research Assistant, or internship positions related to deep Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! -->
+
+🌟 Newest update: 
+(1) I am currently interning at Tsinghua TBSI, focusing on efficient transfer learning(4LLM). I look forward to sharing new research findings soon.
+(2) I am completing my graduation project for Federated Graph Learning under the guidance of João Mota, who is a nice teacher. I look forward to publishing our work on icml or other platforms.
+(3) Plan some interesting entrepreneurial projects with some passionate partners (4MultiAgent).
 
 # 🔎 Research 
 "The laws of the physical world serve as the fundamental driving force behind the advancement of artificial intelligence" 
@@ -89,15 +87,17 @@ c) Federated Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.3:</em> 🚀🚀🚀 A CVPR article was accepted as Oral!</li>
+  <li><em>2024.12:</em> ✨ I serve as a reviewer for ICLR 2026.</li>
+  <li><em>2025.3:</em> 🚀 One paper is accepted by AAAI. See you in Singapore.</li>
+  <li><em>2025.3:</em> 🚀 A CVPR article was accepted as Oral!</li>
   <li><em>2025.3:</em> 🌐 Office-Home-LDS Dataset is publicly available! </li>
   <li><em>2025.3:</em> 🌐 2025CVPR_GGEUR Code is publicly available! </li>
-  <li><em>2025.3:</em> 🚀🚀🚀 One paper is accepted by CVPR(5/5/5/4). See you in Tennessee.</li>
-  <li><em>2025.2:</em> ✨✨✨ I serve as a reviewer for 《IEEE Access》.</li>
-  <li><em>2025.2:</em> 🚀🚀🚀 One paper is accepted by ICLR. See you in Singapore.</li>
-  <li><em>2025.1:</em> 🚀🚀🚀 One paper is accepted by journal《Entropy》.</li>
-  <li><em>2024.12:</em> ✨✨✨ I serve as a reviewer for CVPR 2025.</li>
-  <li><em>2024.12:</em> 🚀🚀🚀 One paper is accepted by journal《Expert Systems》.</li>
+  <li><em>2025.3:</em> 🚀 One paper is accepted by CVPR(5/5/5/4). See you in Tennessee.</li>
+  <li><em>2025.2:</em> ✨ I serve as a reviewer for 《IEEE Access》.</li>
+  <li><em>2025.2:</em> 🚀 One paper is accepted by ICLR. See you in Singapore.</li>
+  <li><em>2025.1:</em> 🚀 One paper is accepted by journal《Entropy》.</li>
+  <li><em>2024.12:</em> ✨ I serve as a reviewer for CVPR 2025.</li>
+  <li><em>2024.12:</em> 🚀 One paper is accepted by journal《Expert Systems》.</li>
   <li><em>2024.10:</em> 🎈 I was honored with a scholarship from Xidian University.</li>
 </ul>
 </div>
@@ -131,6 +131,18 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
   <dd><a href="https://openreview.net/forum?id=LW55JrLYPg"><strong>Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount</strong></a></dd>
 <dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Jiayi Chen</dd>
 <dd> International Conference on Learning Representations (<strong>Tsinghua-A ICLR</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/review3.png">
+</dt>
+  <dd><a href="https://arxiv.org/pdf/2506.14418"><strong>Compositional Attribute Imbalance in Vision Datasets</strong></dd>
+<dd>Yanbiao Ma&dagger;, Jiayi Chen&dagger, <strong><u>Wei Dai</u></strong>, Dong Zhao, Zeyu Zhang, Yuting Yang, Bowei Liu, Jiaxuan Zhao, Andi Zhang</dd>
+<dd> AAAI Conference on Artificial Intelligence (<strong>CCF-A AAAI</strong>), 2025</dd>
 </dl>
 
 <hr>
@@ -178,19 +190,11 @@ hspace="10" wspace="20" src="../images/review4.png">
 <dd> Under review, 2025</dd>
 </dl> -->
 
-<!-- <hr>
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/review3.png">
-</dt>
-  <dd><strong>Compositional Attribute Imbalance in Vision Datasets</strong></dd>
-<dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Jiayi Chen, Shuo Li</dd>
-<dd> Under review, 2025</dd>
-</dl> -->
 
 
-<div style="clear: both;"></div>
+
+
+<!-- <div style="clear: both;"></div>
 
 
 # 📝 National invention patent
@@ -238,21 +242,24 @@ hspace="10" wspace="20" src="../images/patent4.png">
   <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=18520tm03g600gs06p2w0c7081358990"><strong>[Baidu Scholar]</strong></a></dd>
 <dd>Wanqiu Kong, Shangnan Zhou, <strong><u>Wei Dai</u></strong>, Yiwen Li</dd>
 <dd>Under acceptance, 2024</dd>
-</dl>
+</dl> -->
 
 
 <!-- <div style="clear: both;"></div> -->
+
+
 <hr>
 
 # 🎖 Awards
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em></em> ✨✨✨ <strong>National level</strong> Leader of "Intelligent Sports Vision - Sports Training Feedback System Based on Deep Learning"</li>
+<!--   <li><em></em> ✨✨✨ <strong>National level</strong> Leader of "Intelligent Sports Vision - Sports Training Feedback System Based on Deep Learning"</li>
   <li><em></em> ✨✨✨ <strong>National level</strong> Core member of "Unmanned Safety Operation Monitoring, Binding, and Emergency Command System"</li>
   <li><em></em> ✨✨✨ College Student Computer Innovation Competition <strong>National level</strong> third prize.</li>
-  <li><em></em> ✨✨✨ mathematical contest in modeling <strong>provincial level</strong> second prize.</li>
-  <li><em></em> ✨✨✨ Xidian University <strong>school level</strong> scholarship.</li>
+  <li><em></em> ✨✨✨ mathematical contest in modeling <strong>provincial level</strong> second prize.</li> -->
+  <li><em></em> ✨✨✨ Academician Duan Baoyan's Science and Education Innovation Award.</li>
+  <li><em></em> ✨✨✨ Xidian University  scholarship.</li>
 </ul>
 </div>
 
@@ -261,9 +268,8 @@ hspace="10" wspace="20" src="../images/patent4.png">
 
 # 🎡 Service
 ## Conference Committee Member
-- Reviewer for ICLR'2025
+- Reviewer for ICLR'2026
 - Reviewer for CVPR'2025
-- Reviewer for ICML'2025
 ## Journal Reviewer
 - Reviewer for IEEE Access
 
