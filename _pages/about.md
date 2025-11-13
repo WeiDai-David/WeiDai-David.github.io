@@ -64,9 +64,9 @@ My name is Wei Dai (戴威), I'm a 4<sup>th</sup>-year undergraduate student at 
 <!-- 🌟 I'm currently actively seeking for Research Assistant, or internship positions related to deep Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! -->
 
 🌟 Newest update: 
-(1) I am currently interning at Tsinghua TBSI, focusing on efficient transfer learning(4LLM). I look forward to sharing new research findings soon.
-(2) I am completing my graduation project for Federated Graph Learning under the guidance of João Mota, who is a nice teacher. I look forward to publishing our work on icml or other platforms.
-(3) Plan some interesting entrepreneurial projects with some passionate partners (4MultiAgent).
+a) I am currently interning at Tsinghua TBSI, focusing on efficient transfer learning(4LLM). I look forward to sharing new research findings soon.
+b) I am completing my graduation project for Federated Graph Learning under the guidance of João Mota, who is a nice teacher. I look forward to publishing our work on icml or other platforms.
+c) Plan some interesting entrepreneurial projects with some passionate partners (4MultiAgent).
 
 # 🔎 Research 
 "The laws of the physical world serve as the fundamental driving force behind the advancement of artificial intelligence" 
