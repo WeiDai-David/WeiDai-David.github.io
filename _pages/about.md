@@ -55,7 +55,7 @@ redirect_from:
 
 
 
-My name is Wei Dai (戴威), I'm a 4<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xidian University, supervised by [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ&view_op=list_works&sortby=pubdate). Meanwhile, I'm a 4<sup>th</sup>-year undergraduate student at the School of Electronic Engineering, Heriot-Watt University, supervised by [João Mota](https://scholar.google.com/citations?user=lFjaYrAAAAAJ&hl=zh-CN&oi=sra). Furthermore, I am a direct PhD student of the 2026 cohort at Tsinghua University,supervised by [Shao-lun Huang](https://scholar.google.com/citations?user=C3veL0IAAAAJ&hl=zh-CN&oi=ao)
+My name is Wei Dai (戴威), I'm a 4<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xidian University, supervised by [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ&view_op=list_works&sortby=pubdate). Meanwhile, I'm a 4<sup>th</sup>-year undergraduate student at the School of Electronic Engineering, Heriot-Watt University, supervised by [João Mota](https://scholar.google.com/citations?user=lFjaYrAAAAAJ&hl=zh-CN&oi=sra). Furthermore, I am a direct PhD student of the 2026 cohort at Tsinghua University,supervised by [Shao-lun Huang](https://scholar.google.com/citations?user=C3veL0IAAAAJ&hl=zh-CN&oi=ao).
 
 
 <!-- 🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a Direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> -->
@@ -144,7 +144,7 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
 hspace="10" wspace="20" src="../images/review3.png">
 </dt>
   <dd><a href="https://arxiv.org/pdf/2506.14418"><strong>Compositional Attribute Imbalance in Vision Datasets</strong></a></dd>
-<dd>Yanbiao Ma&dagger;, Jiayi Chen&dagger, <strong><u>Wei Dai</u></strong>, Dong Zhao, Zeyu Zhang, Yuting Yang, Bowei Liu, Jiaxuan Zhao, Andi Zhang</dd>
+<dd>Yanbiao Ma&dagger;, Jiayi Chen&dagger;, <strong><u>Wei Dai</u></strong>, Dong Zhao, Zeyu Zhang, Yuting Yang, Bowei Liu, Jiaxuan Zhao, Andi Zhang</dd>
 <dd> AAAI Conference on Artificial Intelligence (<strong>CCF-A AAAI</strong>), 2025</dd>
 </dl>
 
