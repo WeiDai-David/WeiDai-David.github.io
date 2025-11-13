@@ -140,7 +140,7 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/review3.png">
 </dt>
-  <dd><a href="https://arxiv.org/pdf/2506.14418"><strong>Compositional Attribute Imbalance in Vision Datasets</strong></dd>
+  <dd><a href="https://arxiv.org/pdf/2506.14418"><strong>Compositional Attribute Imbalance in Vision Datasets</strong></a></dd>
 <dd>Yanbiao Ma&dagger;, Jiayi Chen&dagger, <strong><u>Wei Dai</u></strong>, Dong Zhao, Zeyu Zhang, Yuting Yang, Bowei Liu, Jiaxuan Zhao, Andi Zhang</dd>
 <dd> AAAI Conference on Artificial Intelligence (<strong>CCF-A AAAI</strong>), 2025</dd>
 </dl>
