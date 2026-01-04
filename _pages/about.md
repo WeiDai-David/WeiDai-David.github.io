@@ -150,7 +150,7 @@ hspace="10" wspace="20" src="../images/review3.png">
 
 <hr>
 
-<dl>
+<!-- <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 </dt>
@@ -159,8 +159,8 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 <dd> CCF-C JCR-Q1 IF-3 <strong>  journal 《Expert System》 </strong>, 2025</dd>
 </dl>
 
-<hr>
-
+<hr> -->
+<!-- 
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/review1.png">
@@ -179,7 +179,7 @@ hspace="10" wspace="20" src="../images/review2.png">
   <dd><a href="https://ieeexplore.ieee.org/document/10938612"><strong>Exploring Beyond Logits: Hierarchical Dynamic Labeling Based on Embeddings for Semi-Supervised Classification</strong></a></dd>
 <dd>Jiayi Chen, Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Xiaohua Chen, Shuo Li</dd>
 <dd> CAS-Q4 JCR-Q2 IF-3.4 <strong>  journal 《IEEE Access》 </strong>, 2025</dd>
-</dl>
+</dl> -->
 
 <!-- <hr>
 
