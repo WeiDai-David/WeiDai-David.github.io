@@ -67,7 +67,7 @@ My name is Wei Dai (戴威), I'm a 4<sup>th</sup>-year undergraduate student at 
 
 (1) I am currently interning at Tsinghua TBSI, focusing on efficient transfer learning(4LLM). I look forward to sharing new research findings soon.
 
-(2) I am completing my graduation project for Federated Graph Learning under the guidance of João Mota, who is a nice teacher. I look forward to publishing our work on icml or other platforms.
+(2) I am completing my graduation project for Federated Graph Learning under the guidance of João Mota, who is a nice teacher.
 
 (3) Plan some interesting entrepreneurial projects with some passionate partners (4MultiAgent).
 
