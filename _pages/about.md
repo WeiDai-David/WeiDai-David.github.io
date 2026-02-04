@@ -76,11 +76,12 @@ My name is Wei Dai (戴威), I'm a 4<sup>th</sup>-year undergraduate student at 
 
 I am passionate about using <u>physical Laws</u> to explain principle in the world. Currently, my research interests mainly focus on the following aspects:
 
-a) Transfer Learning (especially infor theory)
+a) Multimodal Large Model
 
-b) Trustworthy Machine Learning
+b) Transfer Learning 
 
-c) Federated Learning
+c) Trustworthy Machine Learning
+
 
 
 <br/>
@@ -90,12 +91,12 @@ c) Federated Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2024.12:</em> ✨ I serve as a reviewer for ICLR 2026.</li>
+  <li><em>2026.2:</em> 🚀 One paper is accepted by TPAMI.</li>
+  <li><em>2026.2:</em> 🚀 One paper is accepted by ICLR.</li>
+  <li><em>2025.12:</em> ✨ I serve as a reviewer for ICLR 2026.</li>
   <li><em>2025.3:</em> 🚀 One paper is accepted by AAAI. See you in Singapore.</li>
-  <li><em>2025.3:</em> 🚀 A CVPR article was accepted as Oral!</li>
-  <li><em>2025.3:</em> 🌐 Office-Home-LDS Dataset is publicly available! </li>
-  <li><em>2025.3:</em> 🌐 2025CVPR_GGEUR Code is publicly available! </li>
-  <li><em>2025.3:</em> 🚀 One paper is accepted by CVPR(5/5/5/4). See you in Tennessee.</li>
+  <li><em>2025.3:</em> 🌐 2025CVPR_GGEUR Code is publicly available! Office-Home-LDS Dataset is publicly available!</li>
+  <li><em>2025.3:</em> 🚀 One paper is accepted by CVPR(5/5/5/4) Oral. See you in Tennessee.</li>
   <!-- <li><em>2025.2:</em> ✨ I serve as a reviewer for 《IEEE Access》.</li> -->
   <li><em>2025.2:</em> 🚀 One paper is accepted by ICLR. See you in Singapore.</li>
   <!-- <li><em>2025.1:</em> 🚀 One paper is accepted by journal《Entropy》.</li> -->
