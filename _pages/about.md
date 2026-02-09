@@ -135,7 +135,7 @@ hspace="10" wspace="20" src="../images/TPAMI26.png">
   <a href="https://github.com/WeiDai-David/2025CVPR_GGEUR"><strong>[Github]</strong></a>
 <dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Bowei Liu, Jiayi Chen, Wenke Huang, Guancheng Wan, Zhiwu Lu, Junchi Yan</dd>
 <dd> IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>CCF-A TPAMI</strong>), 2026</dd>
-</dl>
+
 
 <hr>
 
