@@ -132,10 +132,10 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 hspace="10" wspace="20" src="../images/TPAMI26.png">
 </dt>
   <dd><a href="https://arxiv.org/pdf/2508.13518"><strong>Calibrating Biased Distribution in VFM-derived Latent Space via Cross-Domain Geometric Consistency</strong></a>
-  <a href="https://github.com/WeiDai-David/2025CVPR_GGEUR"><strong>[Github]</strong></a>
+  <a href="https://github.com/WeiDai-David/2025CVPR_GGEUR"><strong>[Github]</strong></a></dd>
 <dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Bowei Liu, Jiayi Chen, Wenke Huang, Guancheng Wan, Zhiwu Lu, Junchi Yan</dd>
 <dd> IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>CCF-A TPAMI</strong>), 2026</dd>
-
+</dl>
 
 <hr>
 
