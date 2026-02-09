@@ -272,7 +272,7 @@ hspace="10" wspace="20" src="../images/patent4.png">
   <li><em></em> ✨✨✨ College Student Computer Innovation Competition <strong>National level</strong> third prize.</li>
   <li><em></em> ✨✨✨ mathematical contest in modeling <strong>provincial level</strong> second prize.</li> -->
   <li><em></em> ✨✨✨ Academician Duan Baoyan's Science and Education Innovation Award.</li>
-  <li><em></em> ✨✨✨ Xidian University  scholarship.</li>
+  <li><em></em> ✨✨✨ Xidian University scholarship.</li>
 </ul>
 </div>
 
@@ -281,13 +281,17 @@ hspace="10" wspace="20" src="../images/patent4.png">
 # 🎡 Service
 ## Conference Committee Member
 - Reviewer for ICLR'2026
+- Reviewer for ICML'2026
+- Reviewer for ICLR'2025
 - Reviewer for CVPR'2025
-<!-- ## Journal Reviewer
-- Reviewer for IEEE Access -->
+## Journal Reviewer
+- Reviewer for IEEE Access
 
 
 # 📖 Educations
-- *2022.09 - Now*, Undergraduate, School of Communication Engineering, Xi'an University of Electronic Science and Technology, China (GPA:3.9/4.0, Weighted Average scorc:91/100) 
+- *2026.06 - Now*, Phd, Tsinghua Shenzhen International Graduate School, Tsinghua University, China
+- *2022.09 - 2026.06*, Undergraduate, School of Communication Engineering, Xidian University, China (GPA:3.9/4.0, Weighted Average scorc:91/100) 
+- *2022.09 - 2026.06*, Undergraduate, School of Engineering and Physical Sciences, Heriot-Watt University, UK
 
 
 <!-- <dl><a href="https://clustrmaps.com/site/1c39i" title="Visit tracker"><img src="//clustrmaps.com/map_v2.js?d=0FwYpoiI1R6FqhSNSqmg_46Ky64lof1-KhrZ53oXy4g&cl=ffffff&w=a" /></a></dl> -->
