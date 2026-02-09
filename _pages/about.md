@@ -287,7 +287,7 @@ hspace="10" wspace="20" src="../images/patent4.png">
 <!-- ## Journal Reviewer
 - Reviewer for IEEE Access -->
 
-
+<hr>
 
 # 📖 Educations
 - *2022.09 - Now*, Undergraduate, School of Communication Engineering, Xi'an University of Electronic Science and Technology, China (GPA:3.9/4.0, Weighted Average scorc:91/100) 
