@@ -125,6 +125,8 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
 <dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), <strong class="co-first"><i>Oral Presentation (Top 0.5%)</i></strong>, 2025 </dd>
 </dl>
 
+<hr>
+
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/TPAMI26.png">
@@ -147,7 +149,6 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
 </dl>
 
 <hr>
-
 
 <dl>
   <dt><img align="left" width="400"
