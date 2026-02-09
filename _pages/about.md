@@ -67,7 +67,7 @@ My name is Wei Dai (戴威), I'm a 4<sup>th</sup>-year undergraduate student at 
 
 (1) I am currently interning at Tsinghua TBSI, focusing on efficient transfer learning(4LLM). I look forward to sharing new research findings soon.
 
-(2) I am completing my graduation project for Federated Graph Learning under the guidance of João Mota, who is a nice teacher.
+(2) I am completing my graduation project for Federated Graph Learning under the guidance of João Mota, who is a patient and nice teacher.
 
 (3) Plan some interesting entrepreneurial projects with some passionate partners (4MultiAgent).
 
@@ -122,8 +122,17 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
   <a href="https://github.com/WeiDai-David/2025CVPR_GGEUR"><strong>[Github]</strong></a>
   <a href="https://huggingface.co/datasets/WeiDai-David/Office-Home-LDS"><strong>[Dataset]</strong></a></dd>
 <dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd>
-<!-- <dd><strong><u>Wei Dai&dagger; </u></strong>, Yanbiao Ma&dagger;, Wenke Huang, Jiayi Chen</dd> -->
 <dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), <strong class="co-first"><i>Oral Presentation (Top 0.5%)</i></strong>, 2025 </dd>
+</dl>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/TPAMI26.png">
+</dt>
+  <dd><a href="https://arxiv.org/pdf/2508.13518"><strong>Calibrating Biased Distribution in VFM-derived Latent Space via Cross-Domain Geometric Consistency</strong></a>
+  <a href="https://github.com/WeiDai-David/2025CVPR_GGEUR"><strong>[Github]</strong></a>
+<dd>Yanbiao Ma;, <strong><u>Wei Dai; </u></strong>, Bowei Liu, Jiayi Chen, Wenke Huang, Guancheng Wan, Zhiwu Lu, Junchi Yan</dd>
+<dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>CCF-A TPAMI</strong>), 2026 </dd>
 </dl>
 
 <hr>
@@ -142,7 +151,7 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/review3.png">
+hspace="10" wspace="20" src="../images/AAAI26.png">
 </dt>
   <dd><a href="https://arxiv.org/pdf/2506.14418"><strong>Compositional Attribute Imbalance in Vision Datasets</strong></a></dd>
 <dd>Yanbiao Ma&dagger;, Jiayi Chen&dagger;, <strong><u>Wei Dai</u></strong>, Dong Zhao, Zeyu Zhang, Yuting Yang, Bowei Liu, Jiaxuan Zhao, Andi Zhang</dd>
