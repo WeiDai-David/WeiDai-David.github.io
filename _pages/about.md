@@ -55,7 +55,7 @@ redirect_from:
 
 
 
-My name is Wei Dai (戴威)<sup>1th</sup>-year Phd student at the School of Shenzhen International Graduate School, Tsinghua University, supervised by [Shao-lun Huang](https://scholar.google.com/citations?user=C3veL0IAAAAJ&hl=zh-CN&oi=ao).
+My name is Wei Dai (戴威), 1<sup>th</sup>-year Phd student at the School of Shenzhen International Graduate School, Tsinghua University, supervised by [Shao-lun Huang](https://scholar.google.com/citations?user=C3veL0IAAAAJ&hl=zh-CN&oi=ao), Graduated from Xidian University with a bachelor's degree in 2026, supervised by [Yanbiao Ma](https://scholar.google.com/citations?user=j05wwXcAAAAJ&hl=zh-CN&oi=ao)
 
 
 <!-- 🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a Direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> -->
@@ -97,11 +97,8 @@ c) Post Training
   <li><em>2025.3:</em> 🚀 One paper is accepted by AAAI. See you in Singapore.</li>
   <li><em>2025.3:</em> 🌐 2025CVPR_GGEUR Code is publicly available! Office-Home-LDS Dataset is publicly available!</li>
   <li><em>2025.3:</em> 🚀 One paper is accepted by CVPR(5/5/5/4) Oral. See you in Tennessee.</li>
-  <!-- <li><em>2025.2:</em> ✨ I serve as a reviewer for 《IEEE Access》.</li> -->
   <li><em>2025.2:</em> 🚀 One paper is accepted by ICLR. See you in Singapore.</li>
-  <!-- <li><em>2025.1:</em> 🚀 One paper is accepted by journal《Entropy》.</li> -->
   <li><em>2024.12:</em> ✨ I serve as a reviewer for CVPR 2025.</li>
-  <!-- <li><em>2024.12:</em> 🚀 One paper is accepted by journal《Expert Systems》.</li> -->
   <li><em>2024.10:</em> 🎈 I was honored with a scholarship from Xidian University.</li>
 </ul>
 </div>
@@ -119,7 +116,6 @@ c) Post Training
 hspace="10" wspace="20" src="../images/EmbodyAgent.png">
 </dt>
   <dd><a href="https://arxiv.org/pdf/2611.26196"><strong>EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL</strong></a>
-  <a href="https://github.com/WeiDai-David/2025CVPR_GGEUR"><strong>[Github]</strong></a></dd>
 <dd><strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Jinkun Liu&dagger;, Jiayi Chen, Han Liu, Wenbo Ding, Shaolun Huang</dd>
 </dl>
 
@@ -131,7 +127,7 @@ hspace="10" wspace="20" src="../images/GGEUR_CVPR25.png">
   <a href="https://github.com/WeiDai-David/2025CVPR_GGEUR"><strong>[Github]</strong></a>
   <a href="https://huggingface.co/datasets/WeiDai-David/Office-Home-LDS"><strong>[Dataset]</strong></a></dd>
 <dd>Yanbiao Ma&dagger;, <strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Jiayi Chen</dd>
-<dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), <strong class="co-first"><i>Oral Presentation (Top 0.5%)</i></strong>, 2025 </dd>
+<dd> Conference on Computer Vision and Pattern Recognition (<strong>CCF-A CVPR</strong>), <strong class="co-first"><i>Oral</i></strong>, 2025 </dd>
 </dl>
 
 <hr>
