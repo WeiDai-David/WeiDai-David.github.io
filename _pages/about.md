@@ -55,7 +55,7 @@ redirect_from:
 
 
 
-My name is Wei Dai (戴威), I'm a 4<sup>th</sup>-year undergraduate student at the School of Communication Engineering, Xidian University, supervised by [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ&view_op=list_works&sortby=pubdate). Meanwhile, I'm a 4<sup>th</sup>-year undergraduate student at the School of Electronic Engineering, Heriot-Watt University, supervised by [João Mota](https://scholar.google.com/citations?user=lFjaYrAAAAAJ&hl=zh-CN&oi=sra). Furthermore, I am a direct PhD student of the 2026 cohort at Tsinghua University,supervised by [Shao-lun Huang](https://scholar.google.com/citations?user=C3veL0IAAAAJ&hl=zh-CN&oi=ao).
+My name is Wei Dai (戴威)<sup>1th</sup>-year Phd student at the School of Shenzhen International Graduate School, Tsinghua University, supervised by [Shao-lun Huang](https://scholar.google.com/citations?user=C3veL0IAAAAJ&hl=zh-CN&oi=ao).
 
 
 <!-- 🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a Direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> -->
@@ -63,28 +63,28 @@ My name is Wei Dai (戴威), I'm a 4<sup>th</sup>-year undergraduate student at 
 
 <!-- 🌟 I'm currently actively seeking for Research Assistant, or internship positions related to deep Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! -->
 
-🌟 Newest update: 
+<!-- 🌟 Newest update: 
 
 (1) I am currently interning at Tsinghua TBSI, focusing on efficient transfer learning(4LLM). I look forward to sharing new research findings soon.
 
 (2) I am completing my graduation project for Federated Graph Learning under the guidance of João Mota, who is a patient and nice teacher.
 
-(3) Plan some interesting entrepreneurial projects with some passionate partners (4MultiAgent).
+(3) Plan some interesting entrepreneurial projects with some passionate partners (4MultiAgent). -->
 
 # 🔎 Research 
 "The laws of the physical world serve as the fundamental driving force behind the advancement of artificial intelligence" 
 
 I am passionate about using <u>physical Laws</u> to explain principle in the world. Currently, my research interests mainly focus on the following aspects:
 
-a) Multimodal Large Model
+a) Large Language Model
 
-b) Transfer Learning 
+b) Embody Agent
 
-c) Trustworthy Machine Learning
+c) Post Training
 
 
 
-<br/>
+<!-- <br/>
 
 # 🔥 News
 
@@ -106,13 +106,22 @@ c) Trustworthy Machine Learning
 </ul>
 </div>
 
-<br/>
+<br/> -->
 
 
 
 # 📃 Publications
 
 **&dagger; Equal Contribution**   
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/EmbodyAgent.png">
+</dt>
+  <dd><a href="https://arxiv.org/pdf/2611.26196"><strong>EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL</strong></a>
+  <a href="https://github.com/WeiDai-David/2025CVPR_GGEUR"><strong>[Github]</strong></a></dd>
+<dd><strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Jinkun Liu&dagger;, Jiayi Chen, Han Liu, Wenbo Ding, Shaolun Huang</dd>
+</dl>
 
 <dl>
   <dt><img align="left" width="400"
@@ -148,7 +157,7 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
 <dd> International Conference on Learning Representations (<strong>Tsinghua-A ICLR</strong>), 2025</dd>
 </dl>
 
-<hr>
+<!-- <hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -159,7 +168,7 @@ hspace="10" wspace="20" src="../images/AAAI26.png">
 <dd> AAAI Conference on Artificial Intelligence (<strong>CCF-A AAAI</strong>), 2025</dd>
 </dl>
 
-<hr>
+<hr> -->
 
 <!-- <dl>
   <dt><img align="left" width="400"
@@ -278,18 +287,18 @@ hspace="10" wspace="20" src="../images/patent4.png">
 
 <!-- <div style="clear: both;"></div> -->
 
-# 🎡 Service
+<!-- # 🎡 Service
 ## Conference Committee Member
 - Reviewer for ICLR'2026
 - Reviewer for ICML'2026
 - Reviewer for ICLR'2025
 - Reviewer for CVPR'2025
 ## Journal Reviewer
-- Reviewer for IEEE Access
+- Reviewer for IEEE Access -->
 
 
 # 📖 Educations
-- *2026.06 - Now*, Phd, Tsinghua Shenzhen International Graduate School, Tsinghua University, China
+- *2026.06 - Now*, Phd Student, Tsinghua Shenzhen International Graduate School, Tsinghua University, China
 - *2022.09 - 2026.06*, Undergraduate, School of Communication Engineering, Xidian University, China (GPA:3.9/4.0, Weighted Average scorc:91/100) 
 - *2022.09 - 2026.06*, Undergraduate, School of Engineering and Physical Sciences, Heriot-Watt University, UK
 
@@ -323,15 +332,6 @@ hspace="10" wspace="20" src="../images/patent4.png">
 
 <dd><a href="https://zxeupbuzh9y.feishu.cn/docx/ZDEsdpZtPosRWOxcBnkcF8Hknkd"><strong>Link</strong></a></dd>
 
-
-</details>
-
-
-
-<details>
-  <summary><strong>Poems that inspire me</strong></summary>
-  <dd><strong>白鹭立雪，愚者看鹭，聪者观雪，智者见白</strong> —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.</dd>
-  <dd><strong>世界不黑也不白, 而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
 
 
 
