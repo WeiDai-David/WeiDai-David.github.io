@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wei Dai Homepage"
-description              : "22012100039@stu.xidian.edu.cn"
+description              : "daiw26@mails.tsinghua.edu.cn"
 repository               : "WeiDai-David/WeiDai-David.github.io"
 #"David-want-to-fly/WeiDai.github.io"
 google_scholar_stats_use_cdn : true
@@ -30,7 +30,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0dOq3mkAAAAJ&hl=zh-CN"
 # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "22012100039@stu.xidian.edu.cn"
+  email            : "daiw26@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
