@@ -55,7 +55,7 @@ redirect_from:
 
 
 
-My name is Wei Dai (戴威), a 1<sup>th</sup>-year Phd student at the School of Shenzhen International Graduate School, Tsinghua University, supervised by [Shao-lun Huang](https://scholar.google.com/citations?user=C3veL0IAAAAJ&hl=zh-CN&oi=ao), Graduated from Xidian University with a bachelor's degree in 2026, supervised by [Yanbiao Ma](https://scholar.google.com/citations?user=j05wwXcAAAAJ&hl=zh-CN&oi=ao)
+My name is Wei Dai (戴威), a 1<sup>th</sup>-year Phd student at the School of Shenzhen International Graduate School, Tsinghua University, supervised by [Shao-lun Huang](https://scholar.google.com/citations?user=C3veL0IAAAAJ&hl=zh-CN&oi=ao), Graduated from Xidian University with a bachelor's degree in 2026, supervised by [Yanbiao Ma](https://scholar.google.com/citations?user=j05wwXcAAAAJ&hl=zh-CN&oi=ao).
 
 
 <!-- 🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a Direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> -->
@@ -115,8 +115,8 @@ c) Post Training
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/EmbodyAgent.png">
 </dt>
-  <dd><a href="https://arxiv.org/pdf/2611.26196"><strong>EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL</strong></a>
-<dd><strong><u>Wei Dai&dagger; </u></strong><span class="co-first">(co-first)</span>, Jinkun Liu&dagger;, Jiayi Chen, Han Liu, Wenbo Ding, Shaolun Huang</dd>
+  <dd><a href="https://arxiv.org/pdf/2611.26196"><strong>EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL</strong></a></dd>
+<dd><strong><u>Wei Dai&dagger; </u></strong>, Jinkun Liu&dagger;, Jiayi Chen, Han Liu, Wenbo Ding, Shaolun Huang</dd>
 </dl>
 
 <dl>
@@ -150,7 +150,7 @@ hspace="10" wspace="20" src="../images/IGAM_ICLR25_V1.png">
 </dt>
   <dd><a href="https://openreview.net/forum?id=LW55JrLYPg"><strong>Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount</strong></a></dd>
 <dd>Yanbiao Ma, <strong><u>Wei Dai</u></strong>, Jiayi Chen</dd>
-<dd> International Conference on Learning Representations (<strong>Tsinghua-A ICLR</strong>), 2025</dd>
+<dd> International Conference on Learning Representations (<strong>CCF-A ICLR</strong>), 2025</dd>
 </dl>
 
 <!-- <hr>
@@ -264,7 +264,7 @@ hspace="10" wspace="20" src="../images/patent4.png">
 </dl> -->
 
 
-<!-- <div style="clear: both;"></div> -->
+<div style="clear: both;"></div>
 
 
 
@@ -281,7 +281,7 @@ hspace="10" wspace="20" src="../images/patent4.png">
 </ul>
 </div>
 
-<!-- <div style="clear: both;"></div> -->
+<div style="clear: both;"></div>
 
 <!-- # 🎡 Service
 ## Conference Committee Member
