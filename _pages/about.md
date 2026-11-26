@@ -55,7 +55,7 @@ redirect_from:
 
 
 
-My name is Wei Dai (戴威), 1<sup>th</sup>-year Phd student at the School of Shenzhen International Graduate School, Tsinghua University, supervised by [Shao-lun Huang](https://scholar.google.com/citations?user=C3veL0IAAAAJ&hl=zh-CN&oi=ao), Graduated from Xidian University with a bachelor's degree in 2026, supervised by [Yanbiao Ma](https://scholar.google.com/citations?user=j05wwXcAAAAJ&hl=zh-CN&oi=ao)
+My name is Wei Dai (戴威), a 1<sup>th</sup>-year Phd student at the School of Shenzhen International Graduate School, Tsinghua University, supervised by [Shao-lun Huang](https://scholar.google.com/citations?user=C3veL0IAAAAJ&hl=zh-CN&oi=ao), Graduated from Xidian University with a bachelor's degree in 2026, supervised by [Yanbiao Ma](https://scholar.google.com/citations?user=j05wwXcAAAAJ&hl=zh-CN&oi=ao)
 
 
 <!-- 🌟 I am actively applying for a PhD in the fall of 2026 , and applying for a Direct PhD at a university summer camp in 2025! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> -->
